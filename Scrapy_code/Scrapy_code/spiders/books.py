@@ -1,23 +1,15 @@
 import scrapy
-from pathlib import Path
 
 class BooksSpider(scrapy.Spider):
     name = "books"
-    allowed_domains = ["toscrape.com"]
-    start_urls = ["http://toscrape.com/"]
-
-    def start_requests(self):
-        urls = [
-            "https://books.toscrape.com/catalogue/category/books/travel_2/index.html"
-            "https://books.toscrape.com/catalogue/category/books/mystery_3/index.html"
-        ]
-        for url in urls:
-            yield scrapy.Request(url=url, callback=self.parse)
+    start_urls = ["http://www.values.com/inspirational-quotes"]
 
     def parse(self, response):
-        page = response.url.split("/")[-2]
-        filename = f"books-{page}.html"
-        Path(filename).write_bytes(response.body)
-        self.log(f"Saved file{filename}")
-
-
+        for quote in response.css('div.col-6.col-lg-4.text-center.margin-30px-bottom.sm-margin-30px-top'):
+            img_alt = quote.css('img::attr(alt)').get()
+            if img_alt:
+                line, author = img_alt.split(" #")
+                yield {
+                    'lines': line,
+                    'author': author,
+                }
