@@ -1,0 +1,4886 @@
+{
+    "Name": "Bartone",
+    "Category": " Coffee, Cafe, Breakfast ",
+    "Reviews": "Very good",
+    "Delivery": "Within 13 mins",
+    "Services": "Live Tracking, Contactless drop-off",
+    "Food": [
+        {
+            "Category": " Most Selling ",
+            "dishes": [
+                {
+                    "Name": "Iced Americano",
+                    "Price": "KD 1.750"
+                },
+                {
+                    "Name": "Bartone Latte",
+                    "Price": "KD 2.250"
+                },
+                {
+                    "Name": "Halloumi Cheese",
+                    "Price": "KD 1.950"
+                },
+                {
+                    "Name": "Grilled Cheese",
+                    "Price": "KD 1.950"
+                }
+            ]
+        },
+        {
+            "Category": " Protein Shakes ",
+            "dishes": [
+                {
+                    "Name": "peanut butter",
+                    "Price": "KD 1.850"
+                },
+                {
+                    "Name": "pecan",
+                    "Price": "KD 1.850"
+                }
+            ]
+        },
+        {
+            "Category": " Classic Ice creams  ",
+            "dishes": [
+                {
+                    "Name": "6 Regular Ice cream Gathering Box",
+                    "Price": "KD 9.000"
+                },
+                {
+                    "Name": "12 Small Ice Cream Gathering Box ",
+                    "Price": "KD 12.000"
+                },
+                {
+                    "Name": "Vanilla Icecream",
+                    "Price": "KD 2.000"
+                },
+                {
+                    "Name": "Mango Icecream ",
+                    "Price": "KD 2.000"
+                }
+            ]
+        },
+        {
+            "Category": " Bartone Signature Ice Creams ",
+            "dishes": [
+                {
+                    "Name": "Salted Caramel",
+                    "Price": "KD 2.500"
+                },
+                {
+                    "Name": "Pistachio  ",
+                    "Price": "KD 2.500"
+                },
+                {
+                    "Name": "Bartone Sundae ",
+                    "Price": "KD 2.500"
+                },
+                {
+                    "Name": " Lotus blondie  ",
+                    "Price": "KD 2.500"
+                }
+            ]
+        },
+        {
+            "Category": " Iced Tea ",
+            "dishes": [
+                {
+                    "Name": "Passion Lychee",
+                    "Price": "KD 1.950"
+                },
+                {
+                    "Name": "Lemongrass Pineapple",
+                    "Price": "KD 1.950"
+                },
+                {
+                    "Name": "Pomegranate Hibiscus",
+                    "Price": "KD 1.950"
+                }
+            ]
+        },
+        {
+            "Category": " Babka "
+        },
+        {
+            "Category": " Bartone Healthy Options ",
+            "dishes": [
+                {
+                    "Name": "Halloumi Healthy",
+                    "Price": "KD 1.450"
+                },
+                {
+                    "Name": "Lemon Chicken And Potato Healthy",
+                    "Price": "KD 1.750"
+                },
+                {
+                    "Name": "Turkey Sumac Healthy",
+                    "Price": "KD 1.750"
+                }
+            ]
+        },
+        {
+            "Category": " Sandwiches ",
+            "dishes": [
+                {
+                    "Name": "Roast Beef",
+                    "Price": "KD 2.950"
+                },
+                {
+                    "Name": "Caprese Sandwich",
+                    "Price": "KD 2.750"
+                },
+                {
+                    "Name": "Halloumi Cheese And Mint",
+                    "Price": "KD 1.750"
+                },
+                {
+                    "Name": "Grilled Cheese",
+                    "Price": "KD 1.950"
+                },
+                {
+                    "Name": "Halloumi Cheese",
+                    "Price": "KD 1.950"
+                },
+                {
+                    "Name": "Turkey Sumac With Cheese",
+                    "Price": "KD 2.750"
+                },
+                {
+                    "Name": "Turkey Cranberry Light",
+                    "Price": "KD 2.750"
+                },
+                {
+                    "Name": "Mushroom Sourdough",
+                    "Price": "KD 2.550"
+                },
+                {
+                    "Name": "Avocado Chicken",
+                    "Price": "KD 1.950"
+                }
+            ]
+        },
+        {
+            "Category": " Cold Drinks ",
+            "dishes": [
+                {
+                    "Name": "Iced V60",
+                    "Price": "KD 2.250"
+                },
+                {
+                    "Name": "Cold Brew Bottle",
+                    "Price": "KD 2.750"
+                },
+                {
+                    "Name": "Iced Matcha Latte",
+                    "Price": "KD 2.500"
+                },
+                {
+                    "Name": "Iced White Mocha",
+                    "Price": "KD 2.250"
+                },
+                {
+                    "Name": "Ice Shaken Caramel Macchiato",
+                    "Price": "KD 2.250"
+                },
+                {
+                    "Name": "Ice Shaken Vanilla",
+                    "Price": "KD 2.250"
+                },
+                {
+                    "Name": "Cold Brew Cup",
+                    "Price": "KD 2.500"
+                },
+                {
+                    "Name": "Iced Americano",
+                    "Price": "KD 1.750"
+                },
+                {
+                    "Name": "Iced Bartone Latte",
+                    "Price": "KD 2.250"
+                },
+                {
+                    "Name": "Iced Latte",
+                    "Price": "KD 2.000"
+                },
+                {
+                    "Name": "Orange Juice",
+                    "Price": "KD 1.500"
+                },
+                {
+                    "Name": "Lemon With Mint Juice",
+                    "Price": "KD 1.500"
+                },
+                {
+                    "Name": "Pomegranate Juice",
+                    "Price": "KD 2.000"
+                },
+                {
+                    "Name": "Still Water",
+                    "Price": "KD 0.500"
+                }
+            ]
+        },
+        {
+            "Category": " Hot Drinks ",
+            "dishes": [
+                {
+                    "Name": "Bartone Latte",
+                    "Price": "KD 2.250"
+                },
+                {
+                    "Name": "Latte",
+                    "Price": "KD 2.000"
+                },
+                {
+                    "Name": "Flat White",
+                    "Price": "KD 2.000"
+                },
+                {
+                    "Name": "Cappuccino",
+                    "Price": "KD 2.000"
+                },
+                {
+                    "Name": "Americano",
+                    "Price": "KD 1.750"
+                },
+                {
+                    "Name": "V60",
+                    "Price": "KD 2.250"
+                },
+                {
+                    "Name": "Tea",
+                    "Price": "KD 1.100"
+                },
+                {
+                    "Name": "Matcha Latte",
+                    "Price": "KD 2.500"
+                },
+                {
+                    "Name": "Caramel Macchiato",
+                    "Price": "KD 2.250"
+                }
+            ]
+        },
+        {
+            "Category": " Donuts "
+        },
+        {
+            "Category": " Monkey Bread "
+        },
+        {
+            "Category": " Cakes ",
+            "dishes": [
+                {
+                    "Name": "Honey Labneh Cake",
+                    "Price": "KD 1.750"
+                }
+            ]
+        },
+        {
+            "Category": " Gatherings Drinks "
+        },
+        {
+            "Category": " Croissant ",
+            "dishes": [
+                {
+                    "Name": "Plain Croissant",
+                    "Price": "KD 1.250"
+                },
+                {
+                    "Name": " zataar croissant",
+                    "Price": "KD 1.500"
+                },
+                {
+                    "Name": "Cheese Croissant",
+                    "Price": "KD 1.500"
+                },
+                {
+                    "Name": "Almond Croissant",
+                    "Price": "KD 1.500"
+                }
+            ]
+        },
+        {
+            "Category": " Danish ",
+            "dishes": [
+                {
+                    "Name": "Mushroom Danish",
+                    "Price": "KD 1.750"
+                },
+                {
+                    "Name": "Mozzarella Cheese And Tomatoes",
+                    "Price": "KD 1.750"
+                },
+                {
+                    "Name": "Zaatar And Halloumi",
+                    "Price": "KD 1.750"
+                }
+            ]
+        },
+        {
+            "Category": " Salads ",
+            "dishes": [
+                {
+                    "Name": "Chicken Caesar Salad",
+                    "Price": "KD 1.950"
+                },
+                {
+                    "Name": "Roasted Corn Salad",
+                    "Price": "KD 1.750"
+                },
+                {
+                    "Name": "Kale Tabbouleh",
+                    "Price": "KD 1.950"
+                },
+                {
+                    "Name": "Fattoush Salad",
+                    "Price": "KD 1.750"
+                },
+                {
+                    "Name": "Spinach Walnut Salad",
+                    "Price": "KD 1.950"
+                }
+            ]
+        },
+        {
+            "Category": " Healthy Cups ",
+            "dishes": [
+                {
+                    "Name": "Greek Yoghurt Granola Jar",
+                    "Price": "KD 2.250"
+                },
+                {
+                    "Name": "Chia Granola Jar",
+                    "Price": "KD 2.250"
+                }
+            ]
+        },
+        {
+            "Category": " Brownie "
+        },
+        {
+            "Category": " Cookies And Treats ",
+            "dishes": [
+                {
+                    "Name": "Rock Granola Milk Chocolate",
+                    "Price": "KD 0.950"
+                },
+                {
+                    "Name": "Chocolate Chip Cookies",
+                    "Price": "KD 1.500"
+                }
+            ]
+        }
+    ]
+}
+{
+    "Name": "Pret a Manger",
+    "Category": " Bakery, Sandwiches, Coffee ",
+    "Reviews": "Very good",
+    "Delivery": "Within 24 mins",
+    "Services": "Live Tracking, Contactless drop-off",
+    "Food": [
+        {
+            "Category": " Most Selling ",
+            "dishes": [
+                {
+                    "Name": " Mozzarella And Tomato",
+                    "Price": "KD 1.350"
+                },
+                {
+                    "Name": "Mature Cheddar And Pickle",
+                    "Price": "KD 1.850"
+                },
+                {
+                    "Name": "Free Range Egg Mayo",
+                    "Price": "KD 1.950"
+                },
+                {
+                    "Name": "Tuna Mayo And Cucumber Slim",
+                    "Price": "KD 1.100"
+                }
+            ]
+        },
+        {
+            "Category": " Summer Specials  ",
+            "dishes": [
+                {
+                    "Name": "Melon And Blueberry",
+                    "Price": "KD 1.200"
+                },
+                {
+                    "Name": "Mediterranean Orzo Salad",
+                    "Price": "KD 1.150"
+                },
+                {
+                    "Name": "Charred Corn Salad",
+                    "Price": "KD 1.350"
+                },
+                {
+                    "Name": "Crunchy Asian Slaw",
+                    "Price": "KD 1.150"
+                },
+                {
+                    "Name": "Chicken Chipotle",
+                    "Price": "KD 1.350"
+                }
+            ]
+        },
+        {
+            "Category": " Organic Drinks ",
+            "dishes": [
+                {
+                    "Name": "Espresso",
+                    "Price": "KD 0.900"
+                },
+                {
+                    "Name": "Macchiato",
+                    "Price": "KD 1.000"
+                },
+                {
+                    "Name": "Flat White",
+                    "Price": "KD 1.350"
+                },
+                {
+                    "Name": "Spanish Matcha Latte",
+                    "Price": "KD 1.950"
+                },
+                {
+                    "Name": "Chocolate Chai Latte",
+                    "Price": "KD 1.850"
+                },
+                {
+                    "Name": "Frappe Classic",
+                    "Price": "KD 1.850"
+                }
+            ]
+        },
+        {
+            "Category": " Pastries And Cookies ",
+            "dishes": [
+                {
+                    "Name": " Mozzarella And Tomato",
+                    "Price": "KD 1.350"
+                },
+                {
+                    "Name": "Cheese Twist",
+                    "Price": "KD 1.250"
+                },
+                {
+                    "Name": "Very Berry Croissant Vegan",
+                    "Price": "KD 1.100"
+                },
+                {
+                    "Name": "French Butter Plain Croissant",
+                    "Price": "KD 0.850"
+                },
+                {
+                    "Name": "Almond Croissant",
+                    "Price": "KD 1.100"
+                },
+                {
+                    "Name": "Chocolate Croissant",
+                    "Price": "KD 1.100"
+                },
+                {
+                    "Name": "Cinnamon Danish",
+                    "Price": "KD 1.100"
+                },
+                {
+                    "Name": "Millionaires Caramel Shortbread ",
+                    "Price": "KD 1.150"
+                },
+                {
+                    "Name": "Raspberry Cheesecake Brownie",
+                    "Price": "KD 1.150"
+                },
+                {
+                    "Name": "Lemon and Raspberry Slice",
+                    "Price": "KD 1.150"
+                },
+                {
+                    "Name": "Dark Choc And Almond Cookies Vegan",
+                    "Price": "KD 0.950"
+                }
+            ]
+        },
+        {
+            "Category": " Breakfast  ",
+            "dishes": [
+                {
+                    "Name": "Halloumi & Za'atar Hot Croissant",
+                    "Price": "KD 1.550"
+                },
+                {
+                    "Name": "Free Range Egg Mayo",
+                    "Price": "KD 1.950"
+                }
+            ]
+        },
+        {
+            "Category": " Sandwiches ",
+            "dishes": [
+                {
+                    "Name": "Roast Beef Rye Roll",
+                    "Price": "KD 2.150"
+                },
+                {
+                    "Name": "Tuna & Jalapeno Sandwich",
+                    "Price": "KD 1.950"
+                },
+                {
+                    "Name": "Mature Cheddar And Pickle",
+                    "Price": "KD 1.850"
+                },
+                {
+                    "Name": "Free Range Egg Mayo",
+                    "Price": "KD 1.950"
+                },
+                {
+                    "Name": "Classic Super Club",
+                    "Price": "KD 2.350"
+                },
+                {
+                    "Name": "Chicken Avocado Basil",
+                    "Price": "KD 2.350"
+                },
+                {
+                    "Name": "Superkids Turkey And Cream Cheese",
+                    "Price": "KD 1.100"
+                },
+                {
+                    "Name": "Cream Cheese And Cucumber Sandwich",
+                    "Price": "KD 1.100"
+                }
+            ]
+        },
+        {
+            "Category": " Cold Baguettes ",
+            "dishes": [
+                {
+                    "Name": "Avo And Olives And Tomatoes Slim",
+                    "Price": "KD 1.350"
+                },
+                {
+                    "Name": "Tuna Mayo And Cucumber Slim",
+                    "Price": "KD 1.100"
+                },
+                {
+                    "Name": "Pesto Caprese Slim",
+                    "Price": "KD 1.450"
+                },
+                {
+                    "Name": "Brie And Olive Tapenade Slim",
+                    "Price": "KD 1.450"
+                },
+                {
+                    "Name": "Turkey And Cheese",
+                    "Price": "KD 1.950"
+                },
+                {
+                    "Name": "Posh Cheddar And Pickle",
+                    "Price": "KD 2.250"
+                }
+            ]
+        },
+        {
+            "Category": " Hot Baguettes ",
+            "dishes": [
+                {
+                    "Name": "Pesto Chicken",
+                    "Price": "KD 2.350"
+                },
+                {
+                    "Name": "Chipotle Mozzarella",
+                    "Price": "KD 2.350"
+                }
+            ]
+        },
+        {
+            "Category": " Cold Wraps ",
+            "dishes": [
+                {
+                    "Name": "Pesto Hummus And Veggies Wrap",
+                    "Price": "KD 1.950"
+                },
+                {
+                    "Name": "Crunchy Chipotle Chicken And Avo Wrap",
+                    "Price": "KD 2.200"
+                }
+            ]
+        },
+        {
+            "Category": " Toasties ",
+            "dishes": [
+                {
+                    "Name": "Halloumi, Red Pepper, And Basil",
+                    "Price": "KD 1.950"
+                },
+                {
+                    "Name": "Classic Cheese Toastie",
+                    "Price": "KD 2.150"
+                },
+                {
+                    "Name": "Tuna Melt Toastie",
+                    "Price": "KD 2.150"
+                },
+                {
+                    "Name": "Super Club Toastie",
+                    "Price": "KD 2.250"
+                }
+            ]
+        },
+        {
+            "Category": " Focaccia ",
+            "dishes": [
+                {
+                    "Name": "Italian Style Pizzetta",
+                    "Price": "KD 1.950"
+                }
+            ]
+        },
+        {
+            "Category": " Pret and Dessert Pots ",
+            "dishes": [
+                {
+                    "Name": "Honey Granola Pot",
+                    "Price": "KD 0.950"
+                },
+                {
+                    "Name": "Almond Butter & Honey Yoghurt pot",
+                    "Price": "KD 1.150"
+                },
+                {
+                    "Name": "Coconut Chia Vegan",
+                    "Price": "KD 1.450"
+                },
+                {
+                    "Name": "Bircher Muesli",
+                    "Price": "KD 1.550"
+                },
+                {
+                    "Name": "Five Berry Bowl",
+                    "Price": "KD 1.650"
+                },
+                {
+                    "Name": "Mango And Banana Sunshine Bowl Vegan",
+                    "Price": "KD 1.650"
+                },
+                {
+                    "Name": "Saffron Milk Cake",
+                    "Price": "KD 1.550"
+                },
+                {
+                    "Name": "Lemon Cheesecake",
+                    "Price": "KD 1.450"
+                },
+                {
+                    "Name": "Tiramisu",
+                    "Price": "KD 1.450"
+                },
+                {
+                    "Name": "Chocolate Mousse",
+                    "Price": "KD 1.450"
+                },
+                {
+                    "Name": "Black Forest Pot",
+                    "Price": "KD 1.550"
+                },
+                {
+                    "Name": "Poms Pot",
+                    "Price": "KD 0.950"
+                },
+                {
+                    "Name": "Super Fruit Pot",
+                    "Price": "KD 0.950"
+                },
+                {
+                    "Name": "Apple and Almond Butter Pot",
+                    "Price": "KD 0.950"
+                },
+                {
+                    "Name": "Mango And Lime Pot",
+                    "Price": "KD 1.100"
+                }
+            ]
+        },
+        {
+            "Category": " Salads And Platters ",
+            "dishes": [
+                {
+                    "Name": "Greek Salad And Vinaigrette",
+                    "Price": "KD 2.150"
+                },
+                {
+                    "Name": "Tamari And Ginger Chicken Salad Bowl",
+                    "Price": "KD 2.650"
+                },
+                {
+                    "Name": "Salmon And Mango Salad Bowl",
+                    "Price": "KD 4.500"
+                },
+                {
+                    "Name": "Classic Caesar Chicken Salad",
+                    "Price": "KD 2.250"
+                }
+            ]
+        },
+        {
+            "Category": " Sharing Boxes ",
+            "dishes": [
+                {
+                    "Name": "Croissant Box",
+                    "Price": "KD 7.450"
+                }
+            ]
+        },
+        {
+            "Category": " Soups ",
+            "dishes": [
+                {
+                    "Name": "Souper Tomato Soup",
+                    "Price": "KD 1.100"
+                }
+            ]
+        },
+        {
+            "Category": " Drinks & Juices ",
+            "dishes": [
+                {
+                    "Name": "Ginger Shot",
+                    "Price": "KD 0.950"
+                },
+                {
+                    "Name": "Rhubarb Lemonade ",
+                    "Price": "KD 0.800"
+                },
+                {
+                    "Name": "Grape And Elderflower Sparkling ",
+                    "Price": "KD 0.750"
+                },
+                {
+                    "Name": "Apple Fizz Sparkling",
+                    "Price": "KD 0.750"
+                },
+                {
+                    "Name": "Sparkling Water ",
+                    "Price": "KD 0.650"
+                },
+                {
+                    "Name": "Still water",
+                    "Price": "KD 0.450"
+                },
+                {
+                    "Name": "Coke Regular",
+                    "Price": "KD 0.350"
+                },
+                {
+                    "Name": "Coke Diet",
+                    "Price": "KD 0.350"
+                },
+                {
+                    "Name": "Hot Shot",
+                    "Price": "KD 0.950"
+                },
+                {
+                    "Name": "Apple Fresh Juice",
+                    "Price": "KD 1.100"
+                },
+                {
+                    "Name": "Roots and Fruits Fresh Juice",
+                    "Price": "KD 1.350"
+                },
+                {
+                    "Name": "Berry Blast Smoothie",
+                    "Price": "KD 1.850"
+                },
+                {
+                    "Name": "Mango Passion Smoothie",
+                    "Price": "KD 1.850"
+                }
+            ]
+        },
+        {
+            "Category": " Bars And Packs ",
+            "dishes": [
+                {
+                    "Name": "Chips",
+                    "Price": "KD 0.650"
+                },
+                {
+                    "Name": "Dark Chocolate With Sea Salt\u2002\u2002\u2002\u2002\u2002 \u2002\u2002\u2002 \u2002\u2002 \u2002 \u2002\u2002\u2002 \u2002\u2002\u2002\u2002\u2002\u2002",
+                    "Price": "KD 0.750"
+                },
+                {
+                    "Name": "Milk Chocolate ",
+                    "Price": "KD 0.750"
+                },
+                {
+                    "Name": "Love Bar",
+                    "Price": "KD 0.950"
+                },
+                {
+                    "Name": "Brownie Bar",
+                    "Price": "KD 0.950"
+                },
+                {
+                    "Name": "Popcorn Bar",
+                    "Price": "KD 0.950"
+                },
+                {
+                    "Name": "Pret's Nut Bar",
+                    "Price": "KD 0.950"
+                },
+                {
+                    "Name": "Choc Bar",
+                    "Price": "KD 0.950"
+                },
+                {
+                    "Name": "Chocolate Almonds",
+                    "Price": "KD 0.950"
+                },
+                {
+                    "Name": "Cranberries covered white chocolate In Coats",
+                    "Price": "KD 0.950"
+                }
+            ]
+        },
+        {
+            "Category": "  Pret\u2019s Tea ",
+            "dishes": [
+                {
+                    "Name": "Peppermint Tea",
+                    "Price": "KD 1.100"
+                },
+                {
+                    "Name": "Earl Grey Tea",
+                    "Price": "KD 1.100"
+                },
+                {
+                    "Name": "Green Tea",
+                    "Price": "KD 1.100"
+                }
+            ]
+        }
+    ]
+}
+{
+    "Name": "BBT",
+    "Category": " Burgers, American, Fast Food ",
+    "Reviews": "Very good",
+    "Delivery": "Within 16 mins",
+    "Services": "Live Tracking, Contactless drop-off",
+    "Food": [
+        {
+            "Category": " Most Selling ",
+            "dishes": [
+                {
+                    "Name": "Fries",
+                    "Price": "KD 0.950"
+                },
+                {
+                    "Name": "Little Cheeseburger",
+                    "Price": "KD 1.100"
+                },
+                {
+                    "Name": "Messy Fries",
+                    "Price": "KD 1.500"
+                },
+                {
+                    "Name": "Quarter Pounder",
+                    "Price": "KD 2.000"
+                }
+            ]
+        },
+        {
+            "Category": " Signature Burgers ",
+            "dishes": [
+                {
+                    "Name": "Southwest",
+                    "Price": "KD 2.350"
+                },
+                {
+                    "Name": "Quarter Pounder",
+                    "Price": "KD 2.000"
+                }
+            ]
+        },
+        {
+            "Category": " KidKit ",
+            "dishes": [
+                {
+                    "Name": "Cheeseburger",
+                    "Price": "KD 1.950"
+                }
+            ]
+        },
+        {
+            "Category": " Sides ",
+            "dishes": [
+                {
+                    "Name": "Messy Fries",
+                    "Price": "KD 1.500"
+                },
+                {
+                    "Name": "Fries",
+                    "Price": "KD 0.950"
+                }
+            ]
+        },
+        {
+            "Category": " Sauces ",
+            "dishes": [
+                {
+                    "Name": "BBT Sauce",
+                    "Price": "KD 0.300"
+                },
+                {
+                    "Name": "BBT Mayo",
+                    "Price": "KD 0.300"
+                },
+                {
+                    "Name": "BBQ Sauce",
+                    "Price": "KD 0.300"
+                },
+                {
+                    "Name": "Honey Mustard",
+                    "Price": "KD 0.300"
+                }
+            ]
+        },
+        {
+            "Category": " Beverages ",
+            "dishes": [
+                {
+                    "Name": "Coca Cola",
+                    "Price": "KD 0.750"
+                },
+                {
+                    "Name": "Cola Zero",
+                    "Price": "KD 0.750"
+                },
+                {
+                    "Name": "Sprite",
+                    "Price": "KD 0.750"
+                },
+                {
+                    "Name": "Fanta Orange",
+                    "Price": "KD 0.750"
+                },
+                {
+                    "Name": "Nesqiuk",
+                    "Price": "KD 0.500"
+                },
+                {
+                    "Name": "Tang",
+                    "Price": "KD 0.500"
+                }
+            ]
+        },
+        {
+            "Category": " BBT Shakes "
+        }
+    ]
+}
+{
+    "Name": "Voma",
+    "Category": " Coffee, Sandwiches, Pastries & Sweets ",
+    "Reviews": "Amazing",
+    "Delivery": "Within 21 mins",
+    "Services": "Live Tracking, Contactless drop-off",
+    "Food": [
+        {
+            "Category": " Most Selling ",
+            "dishes": [
+                {
+                    "Name": "Spanish Latte Hot",
+                    "Price": "KD 2.000"
+                }
+            ]
+        },
+        {
+            "Category": " COLD DRINKS ",
+            "dishes": [
+                {
+                    "Name": "Spanish Latte ",
+                    "Price": "KD 2.000"
+                },
+                {
+                    "Name": "Salted Caramel Latte ",
+                    "Price": "KD 2.000"
+                },
+                {
+                    "Name": "Toffeenut Latte ",
+                    "Price": "KD 2.250"
+                },
+                {
+                    "Name": "Caramel Machiatto",
+                    "Price": "KD 2.250"
+                },
+                {
+                    "Name": "Iced Latte",
+                    "Price": "KD 2.000"
+                },
+                {
+                    "Name": "Pink Latte",
+                    "Price": "KD 2.000"
+                },
+                {
+                    "Name": "Americano ",
+                    "Price": "KD 1.850"
+                },
+                {
+                    "Name": "White Mocha ",
+                    "Price": "KD 2.000"
+                }
+            ]
+        },
+        {
+            "Category": " ICE TEA "
+        },
+        {
+            "Category": " REFRESHMENT BUZZ ",
+            "dishes": [
+                {
+                    "Name": "Voma Buzz",
+                    "Price": "KD 2.000"
+                },
+                {
+                    "Name": "Mix Berries Buzz",
+                    "Price": "KD 2.000"
+                },
+                {
+                    "Name": "Strawberry Buzz",
+                    "Price": "KD 2.000"
+                }
+            ]
+        },
+        {
+            "Category": " SPECIALITY COFFEE ",
+            "dishes": [
+                {
+                    "Name": "V60 ",
+                    "Price": "KD 2.250"
+                }
+            ]
+        },
+        {
+            "Category": " HOT DRINKS ",
+            "dishes": [
+                {
+                    "Name": "Spanish Latte Hot",
+                    "Price": "KD 2.000"
+                },
+                {
+                    "Name": "Salted Caramel Latte Hot",
+                    "Price": "KD 2.000"
+                },
+                {
+                    "Name": "Toffeenut Latte Hot",
+                    "Price": "KD 2.250"
+                },
+                {
+                    "Name": "Caramel Macchiato Hot",
+                    "Price": "KD 2.250"
+                },
+                {
+                    "Name": "White Mocha Hot",
+                    "Price": "KD 2.000"
+                },
+                {
+                    "Name": "Americano Hot",
+                    "Price": "KD 1.850"
+                },
+                {
+                    "Name": "Hot Chocolate",
+                    "Price": "KD 2.000"
+                },
+                {
+                    "Name": "Hot Cafe Latte ",
+                    "Price": "KD 1.500"
+                },
+                {
+                    "Name": "Double Espresso ",
+                    "Price": "KD 1.500"
+                },
+                {
+                    "Name": "Single Espresso ",
+                    "Price": "KD 1.000"
+                },
+                {
+                    "Name": "Flat White  ",
+                    "Price": "KD 1.500"
+                },
+                {
+                    "Name": "Cappuccino  ",
+                    "Price": "KD 1.500"
+                },
+                {
+                    "Name": "Cortado ",
+                    "Price": "KD 1.500"
+                },
+                {
+                    "Name": "Hot Espresso Machiatto",
+                    "Price": "KD 2.000"
+                },
+                {
+                    "Name": "Turkish Coffee",
+                    "Price": "KD 1.500"
+                },
+                {
+                    "Name": "Black Tea",
+                    "Price": "KD 0.750"
+                }
+            ]
+        },
+        {
+            "Category": " SANDWICHES ",
+            "dishes": [
+                {
+                    "Name": "Grill Halloumi Sandwich ",
+                    "Price": "KD 1.950"
+                },
+                {
+                    "Name": "Cheese Turkey Sandwich",
+                    "Price": "KD 2.150"
+                },
+                {
+                    "Name": "Egg With Avocado Sandwich",
+                    "Price": "KD 1.950"
+                }
+            ]
+        },
+        {
+            "Category": " SWEETS AND SNACKS ",
+            "dishes": [
+                {
+                    "Name": "Peanut Butter Eclairs",
+                    "Price": "KD 2.250"
+                },
+                {
+                    "Name": "Salted Caramel Eclairs",
+                    "Price": "KD 2.250"
+                },
+                {
+                    "Name": "Nutella Eclairs",
+                    "Price": "KD 2.250"
+                },
+                {
+                    "Name": "Mango And Pistachio Chocolate",
+                    "Price": "KD 1.850"
+                },
+                {
+                    "Name": "Cappuccino Chocolate",
+                    "Price": "KD 1.650"
+                },
+                {
+                    "Name": "Brownie Balls",
+                    "Price": "KD 1.200"
+                },
+                {
+                    "Name": "Coconut Balls",
+                    "Price": "KD 1.200"
+                },
+                {
+                    "Name": "Lotus Balls",
+                    "Price": "KD 1.200"
+                },
+                {
+                    "Name": "Oreo Balls",
+                    "Price": "KD 1.200"
+                },
+                {
+                    "Name": "Double Chocolate Cookie",
+                    "Price": "KD 1.250"
+                }
+            ]
+        },
+        {
+            "Category": " Croissant ",
+            "dishes": [
+                {
+                    "Name": "Almond Croissant ",
+                    "Price": "KD 2.000"
+                },
+                {
+                    "Name": "Nutella Cruffin",
+                    "Price": "KD 1.950"
+                }
+            ]
+        },
+        {
+            "Category": " CAKES ",
+            "dishes": [
+                {
+                    "Name": "Kinder Cheesecake Mini",
+                    "Price": "KD 1.500"
+                },
+                {
+                    "Name": "Arrow Cheesecake Mini",
+                    "Price": "KD 1.500"
+                }
+            ]
+        }
+    ]
+}
+{
+    "Name": "Elevation Burger, Kaifan",
+    "Category": " Burgers, American, Fast Food, Healthy ",
+    "Reviews": "Very good",
+    "Delivery": "Within 27 mins",
+    "Services": "Live Tracking, Contactless drop-off",
+    "Food": [
+        {
+            "Category": " Most Selling ",
+            "dishes": [
+                {
+                    "Name": "Fresh Fries",
+                    "Price": "KD 1.250"
+                },
+                {
+                    "Name": "Fancy Fries",
+                    "Price": "KD 2.000"
+                },
+                {
+                    "Name": "Cheese Burger",
+                    "Price": "KD 2.150"
+                },
+                {
+                    "Name": "Elevation Burger",
+                    "Price": "KD 2.900"
+                },
+                {
+                    "Name": "Chicken Your Way",
+                    "Price": "KD 3.250"
+                }
+            ]
+        },
+        {
+            "Category": " All Day Breakfast ",
+            "dishes": [
+                {
+                    "Name": "Bacon Classic",
+                    "Price": "KD 2.250"
+                },
+                {
+                    "Name": "Hash brown",
+                    "Price": "KD 0.500"
+                },
+                {
+                    "Name": "Halloum",
+                    "Price": "KD 2.000"
+                },
+                {
+                    "Name": "Breakfast Burger",
+                    "Price": "KD 2.750"
+                }
+            ]
+        },
+        {
+            "Category": " Kids Menu ",
+            "dishes": [
+                {
+                    "Name": "Hamburger  Meal",
+                    "Price": "KD 2.900"
+                }
+            ]
+        },
+        {
+            "Category": " Signature Menu ",
+            "dishes": [
+                {
+                    "Name": "The Bello",
+                    "Price": "KD 3.000"
+                },
+                {
+                    "Name": "Bistro Brioche",
+                    "Price": "KD 3.250"
+                }
+            ]
+        },
+        {
+            "Category": " Burgers & more ",
+            "dishes": [
+                {
+                    "Name": "Elevation Burger",
+                    "Price": "KD 2.900"
+                },
+                {
+                    "Name": "Cheese Burger",
+                    "Price": "KD 2.150"
+                },
+                {
+                    "Name": "Hamburger",
+                    "Price": "KD 1.850"
+                },
+                {
+                    "Name": "Veggie Burger",
+                    "Price": "KD 2.000"
+                },
+                {
+                    "Name": "Vegan Burger",
+                    "Price": "KD 2.000"
+                },
+                {
+                    "Name": "Half The Guilt Burger",
+                    "Price": "KD 2.650"
+                },
+                {
+                    "Name": "Grilled Cheese Sandwich",
+                    "Price": "KD 1.100"
+                }
+            ]
+        },
+        {
+            "Category": " Chicken ",
+            "dishes": [
+                {
+                    "Name": "Chicken Your Way",
+                    "Price": "KD 3.250"
+                },
+                {
+                    "Name": "The Original",
+                    "Price": "KD 3.250"
+                },
+                {
+                    "Name": "Spicy Sriracha Chicken",
+                    "Price": "KD 3.250"
+                },
+                {
+                    "Name": "Chicken Tenders",
+                    "Price": "KD 2.500"
+                }
+            ]
+        },
+        {
+            "Category": " Homegrown Salad ",
+            "dishes": [
+                {
+                    "Name": "Grilled Chicken Salad",
+                    "Price": "KD 3.500"
+                },
+                {
+                    "Name": "Green Herb Salad",
+                    "Price": "KD 2.500"
+                }
+            ]
+        },
+        {
+            "Category": " Fresh Fries ",
+            "dishes": [
+                {
+                    "Name": "Fancy Fries",
+                    "Price": "KD 2.000"
+                },
+                {
+                    "Name": "Fresh Fries",
+                    "Price": "KD 1.250"
+                }
+            ]
+        },
+        {
+            "Category": " Small Bites ",
+            "dishes": [
+                {
+                    "Name": "Apple Bites",
+                    "Price": "KD 1.000"
+                },
+                {
+                    "Name": "Fruit Bites",
+                    "Price": "KD 1.000"
+                },
+                {
+                    "Name": "Pom Bites",
+                    "Price": "KD 1.250"
+                }
+            ]
+        },
+        {
+            "Category": " Sweet Bites ",
+            "dishes": [
+                {
+                    "Name": "Fudge Brownie",
+                    "Price": "KD 1.200"
+                },
+                {
+                    "Name": "Peanut Butter Brownie",
+                    "Price": "KD 1.200"
+                },
+                {
+                    "Name": "Chocolate Cake Bites",
+                    "Price": "KD 1.300"
+                }
+            ]
+        },
+        {
+            "Category": " Dessert "
+        },
+        {
+            "Category": " Sauces ",
+            "dishes": [
+                {
+                    "Name": "Bleu Cheese",
+                    "Price": "KD 0.200"
+                },
+                {
+                    "Name": "Chimichurri Sauce",
+                    "Price": "KD 0.300"
+                },
+                {
+                    "Name": "Maple Chipotle Sauce",
+                    "Price": "KD 0.300"
+                },
+                {
+                    "Name": "Spicy Sriracha Sauce",
+                    "Price": "KD 0.200"
+                },
+                {
+                    "Name": "Elevation Sauce",
+                    "Price": "KD 0.200"
+                },
+                {
+                    "Name": "Barbecue Sauce",
+                    "Price": "KD 0.200"
+                },
+                {
+                    "Name": "Ranch Sauce",
+                    "Price": "KD 0.100"
+                },
+                {
+                    "Name": "Mayonnaise",
+                    "Price": "KD 0.100"
+                },
+                {
+                    "Name": "Ketchup",
+                    "Price": "KD 0.100"
+                },
+                {
+                    "Name": "House Made Black Pepper Sauce",
+                    "Price": "KD 0.300"
+                }
+            ]
+        },
+        {
+            "Category": " Drinks ",
+            "dishes": [
+                {
+                    "Name": "Coke",
+                    "Price": "KD 0.650"
+                },
+                {
+                    "Name": "Fanta Orange",
+                    "Price": "KD 0.650"
+                },
+                {
+                    "Name": "Fanta Strawberry",
+                    "Price": "KD 0.650"
+                },
+                {
+                    "Name": "Acqua Panna Water",
+                    "Price": "KD 0.650"
+                },
+                {
+                    "Name": "Sparkling Water",
+                    "Price": "KD 1.000"
+                },
+                {
+                    "Name": "Fresh Lemon With Mint",
+                    "Price": "KD 1.200"
+                },
+                {
+                    "Name": "Fresh Red Juice",
+                    "Price": "KD 1.450"
+                },
+                {
+                    "Name": "Fresh Mango Lemonade",
+                    "Price": "KD 1.450"
+                },
+                {
+                    "Name": "Vanilla Milkshake",
+                    "Price": "KD 1.400"
+                },
+                {
+                    "Name": "Fresh Sunray Juice",
+                    "Price": "KD 1.450"
+                },
+                {
+                    "Name": "Coffee Milkshake",
+                    "Price": "KD 1.400"
+                },
+                {
+                    "Name": "Chocolate Milkshake",
+                    "Price": "KD 1.400"
+                },
+                {
+                    "Name": "Root Beer",
+                    "Price": "KD 0.750"
+                },
+                {
+                    "Name": "Cream Soda",
+                    "Price": "KD 0.750"
+                },
+                {
+                    "Name": "Coke Zero",
+                    "Price": "KD 0.650"
+                },
+                {
+                    "Name": "Fresh Orange Juice",
+                    "Price": "KD 1.200"
+                }
+            ]
+        }
+    ]
+}
+{
+    "Name": "Mishmash",
+    "Category": " Grills, Sandwiches, Burgers ",
+    "Reviews": "Amazing",
+    "Delivery": "Within 30 mins",
+    "Services": "Live Tracking, Contactless drop-off",
+    "Food": [
+        {
+            "Category": " Most Selling ",
+            "dishes": [
+                {
+                    "Name": "Classic Chicken Fillet",
+                    "Price": "KD 1.950"
+                },
+                {
+                    "Name": "Tawouk Grilled Wrap",
+                    "Price": "KD 0.950"
+                },
+                {
+                    "Name": "Mix Grills",
+                    "Price": "KD 3.550"
+                }
+            ]
+        },
+        {
+            "Category": " The Buffalo Show ",
+            "dishes": [
+                {
+                    "Name": "Buffalo Chicken Fillet",
+                    "Price": "KD 2.150"
+                }
+            ]
+        },
+        {
+            "Category": " Healthy Grills & Steaks ",
+            "dishes": [
+                {
+                    "Name": "Grilled Tenderloin Steak Dish",
+                    "Price": "KD 3.950"
+                },
+                {
+                    "Name": "Grilled Chicken Steak Dish",
+                    "Price": "KD 2.950"
+                },
+                {
+                    "Name": "Healthy Tikka Tenderloin",
+                    "Price": "KD 3.950"
+                },
+                {
+                    "Name": "Healthy Shish Tawouk",
+                    "Price": "KD 2.950"
+                },
+                {
+                    "Name": "Healthy Beef Kabab",
+                    "Price": "KD 2.950"
+                },
+                {
+                    "Name": "Healthy Khishkhash Kabab",
+                    "Price": "KD 3.200"
+                },
+                {
+                    "Name": "Healthy Mix Grills",
+                    "Price": "KD 3.550"
+                }
+            ]
+        },
+        {
+            "Category": " Sides & Salads ",
+            "dishes": [
+                {
+                    "Name": "Cheese Fries",
+                    "Price": "KD 1.150"
+                },
+                {
+                    "Name": "Mishmash Fries",
+                    "Price": "KD 1.950"
+                },
+                {
+                    "Name": "Jalapeno Bites",
+                    "Price": "KD 0.950"
+                },
+                {
+                    "Name": "Mishmash Quesadilla",
+                    "Price": "KD 1.850"
+                },
+                {
+                    "Name": "Plain Burghul",
+                    "Price": "KD 1.250"
+                },
+                {
+                    "Name": "Plain Rice",
+                    "Price": "KD 1.250"
+                },
+                {
+                    "Name": "Tabboulah",
+                    "Price": "KD 1.350"
+                },
+                {
+                    "Name": "Chicken Caesar Salad",
+                    "Price": "KD 1.650"
+                },
+                {
+                    "Name": "Mutabbal",
+                    "Price": "KD 1.100"
+                },
+                {
+                    "Name": "Hummus",
+                    "Price": "KD 0.850"
+                },
+                {
+                    "Name": "Garlic Sauce",
+                    "Price": "KD 0.750"
+                }
+            ]
+        },
+        {
+            "Category": " Char-Grills ",
+            "dishes": [
+                {
+                    "Name": "Shish Tawouk",
+                    "Price": "KD 2.950"
+                },
+                {
+                    "Name": "Beef Kabab",
+                    "Price": "KD 2.950"
+                },
+                {
+                    "Name": "Khishkhash Beef Kabab",
+                    "Price": "KD 3.200"
+                },
+                {
+                    "Name": "Mix Grills",
+                    "Price": "KD 3.550"
+                },
+                {
+                    "Name": "Tikka Tenderloin",
+                    "Price": "KD 3.950"
+                },
+                {
+                    "Name": "Mishmash Arayis",
+                    "Price": "KD 1.850"
+                },
+                {
+                    "Name": "Mishmash Arayis with Cheese",
+                    "Price": "KD 1.950"
+                },
+                {
+                    "Name": "Medium Grills Feast",
+                    "Price": "KD 13.250"
+                }
+            ]
+        },
+        {
+            "Category": " Burgers & Sandwiches ",
+            "dishes": [
+                {
+                    "Name": "Beef Philly Steak Sandwich",
+                    "Price": "KD 2.350"
+                },
+                {
+                    "Name": "Chicken Philly Steak Sandwich",
+                    "Price": "KD 1.950"
+                },
+                {
+                    "Name": "Cheese Burger",
+                    "Price": "KD 2.200"
+                },
+                {
+                    "Name": "BBQ Burger",
+                    "Price": "KD 2.300"
+                },
+                {
+                    "Name": "Creamy Mushroom Burger",
+                    "Price": "KD 2.300"
+                },
+                {
+                    "Name": "Grilled Chicken Burger",
+                    "Price": "KD 1.950"
+                },
+                {
+                    "Name": "Classic Chicken Fillet",
+                    "Price": "KD 1.950"
+                }
+            ]
+        },
+        {
+            "Category": " Shawarma & Grilled Wraps ",
+            "dishes": [
+                {
+                    "Name": "Tawouk Grilled Wrap",
+                    "Price": "KD 0.950"
+                },
+                {
+                    "Name": "Kabab Grilled Wrap",
+                    "Price": "KD 1.100"
+                }
+            ]
+        },
+        {
+            "Category": " Rice Dishes ",
+            "dishes": [
+                {
+                    "Name": "Beef Tenderloin Rice Dish",
+                    "Price": "KD 2.750"
+                }
+            ]
+        },
+        {
+            "Category": " Gather \u2019N Save ",
+            "dishes": [
+                {
+                    "Name": "Appetizer Feast",
+                    "Price": "KD 9.950"
+                },
+                {
+                    "Name": "Medium Grills Feast",
+                    "Price": "KD 13.250"
+                },
+                {
+                    "Name": "Large Grills Feast",
+                    "Price": "KD 17.950"
+                },
+                {
+                    "Name": "Mishmash Feast",
+                    "Price": "KD 17.950"
+                },
+                {
+                    "Name": "Chicken Feast",
+                    "Price": "KD 12.950"
+                },
+                {
+                    "Name": "Beef Burger Feast",
+                    "Price": "KD 15.950"
+                },
+                {
+                    "Name": "Chicken Burger Feast",
+                    "Price": "KD 12.950"
+                }
+            ]
+        },
+        {
+            "Category": " Mishmash Sauces ",
+            "dishes": [
+                {
+                    "Name": "Special BBQ Sauce",
+                    "Price": "KD 0.250"
+                },
+                {
+                    "Name": "Caeser Sauce",
+                    "Price": "KD 0.250"
+                },
+                {
+                    "Name": "Pepper Sauce",
+                    "Price": "KD 0.250"
+                },
+                {
+                    "Name": "Cheese Sauce",
+                    "Price": "KD 0.250"
+                },
+                {
+                    "Name": "Ketchup",
+                    "Price": "KD 0.200"
+                },
+                {
+                    "Name": "Ketchup And Mayonnaise",
+                    "Price": "KD 0.200"
+                },
+                {
+                    "Name": "Real Mayonnaise",
+                    "Price": "KD 0.200"
+                },
+                {
+                    "Name": "Chick-Spicy Sauce",
+                    "Price": "KD 0.250"
+                },
+                {
+                    "Name": "Vinaigrette Sauce",
+                    "Price": "KD 0.250"
+                },
+                {
+                    "Name": "Tahini Sauce",
+                    "Price": "KD 0.250"
+                },
+                {
+                    "Name": "Slimmed Sour Cream",
+                    "Price": "KD 0.250"
+                },
+                {
+                    "Name": "Honey Mustard Sauce",
+                    "Price": "KD 0.250"
+                },
+                {
+                    "Name": "40ML Ranch Sauce",
+                    "Price": "KD 0.250"
+                }
+            ]
+        },
+        {
+            "Category": " Desserts "
+        },
+        {
+            "Category": " Beverages ",
+            "dishes": [
+                {
+                    "Name": "Fresh Lemon With Mint Juice",
+                    "Price": "KD 1.100"
+                },
+                {
+                    "Name": "Fresh Orange Juice",
+                    "Price": "KD 1.100"
+                },
+                {
+                    "Name": "Vimto",
+                    "Price": "KD 0.750"
+                },
+                {
+                    "Name": "Alsi Cola",
+                    "Price": "KD 0.350"
+                },
+                {
+                    "Name": "Alsi Cola Zero",
+                    "Price": "KD 0.350"
+                },
+                {
+                    "Name": "Coca Cola",
+                    "Price": "KD 0.450"
+                },
+                {
+                    "Name": "Coca Cola Light",
+                    "Price": "KD 0.450"
+                },
+                {
+                    "Name": "Coca Cola Zero",
+                    "Price": "KD 0.450"
+                },
+                {
+                    "Name": "Sprite Light",
+                    "Price": "KD 0.450"
+                },
+                {
+                    "Name": "Sprite",
+                    "Price": "KD 0.450"
+                }
+            ]
+        },
+        {
+            "Category": " DIY BBQ Boxes & Plates ",
+            "dishes": [
+                {
+                    "Name": "Angus Beef Burger BBQ Plate",
+                    "Price": "KD 6.950"
+                },
+                {
+                    "Name": "Chicken Breast BBQ Plate",
+                    "Price": "KD 4.200"
+                },
+                {
+                    "Name": "Chopped Tenderloin Steak BBQ Plate",
+                    "Price": "KD 7.750"
+                },
+                {
+                    "Name": "Chopped Chicken Steak BBQ Plate",
+                    "Price": "KD 3.750"
+                },
+                {
+                    "Name": "Deboned Whole Chicken BBQ Plate",
+                    "Price": "KD 2.950"
+                },
+                {
+                    "Name": "Spicy Deboned Chicken BBQ Plate",
+                    "Price": "KD 2.950"
+                },
+                {
+                    "Name": "Tikka Tenderloin BBQ Plate",
+                    "Price": "KD 4.950"
+                },
+                {
+                    "Name": "Shish Tawouk BBQ Plate",
+                    "Price": "KD 2.950"
+                },
+                {
+                    "Name": "Beef Kabab BBQ Plate",
+                    "Price": "KD 3.950"
+                },
+                {
+                    "Name": "Meat Arayis BBQ Plate",
+                    "Price": "KD 1.250"
+                },
+                {
+                    "Name": "BBQ Arayis with Cheese",
+                    "Price": "KD 1.350"
+                },
+                {
+                    "Name": "Chargrills BBQ BOX",
+                    "Price": "KD 19.900"
+                },
+                {
+                    "Name": "Vegetables Plate BBQ",
+                    "Price": "KD 0.900"
+                },
+                {
+                    "Name": "Burger Buns",
+                    "Price": "KD 1.200"
+                },
+                {
+                    "Name": "Hoagie Rolls",
+                    "Price": "KD 1.500"
+                }
+            ]
+        }
+    ]
+}
+{
+    "Name": "Turkish Grill",
+    "Category": " Grills, Sandwiches, Turkish ",
+    "Reviews": "Very good",
+    "Delivery": "Within 32 mins",
+    "Services": "Live Tracking, Contactless drop-off",
+    "Food": [
+        {
+            "Category": " Most Selling ",
+            "dishes": [
+                {
+                    "Name": "Rice Bowl",
+                    "Price": "KD 0.950"
+                },
+                {
+                    "Name": "Icli Kofte",
+                    "Price": "KD 1.500"
+                },
+                {
+                    "Name": "Sigara Borek",
+                    "Price": "KD 1.500"
+                },
+                {
+                    "Name": "Tikka",
+                    "Price": "KD 3.850"
+                }
+            ]
+        },
+        {
+            "Category": " New Item ",
+            "dishes": [
+                {
+                    "Name": "Sebzeli Kebab Bowl",
+                    "Price": "KD 2.350"
+                }
+            ]
+        },
+        {
+            "Category": " Grills ",
+            "dishes": [
+                {
+                    "Name": "Tikka",
+                    "Price": "KD 3.850"
+                },
+                {
+                    "Name": "Ezmeli Kebab",
+                    "Price": "KD 2.550"
+                },
+                {
+                    "Name": "Heybetli Kebab",
+                    "Price": "KD 2.500"
+                },
+                {
+                    "Name": "Cheese Kofta",
+                    "Price": "KD 2.700"
+                },
+                {
+                    "Name": "White Tavuk Shish",
+                    "Price": "KD 2.450"
+                }
+            ]
+        },
+        {
+            "Category": " Family Promos ",
+            "dishes": [
+                {
+                    "Name": "Family Feast (4 Persons )",
+                    "Price": "KD 11.750"
+                },
+                {
+                    "Name": "Royal Meal (4 Persons )",
+                    "Price": "KD 15.200"
+                },
+                {
+                    "Name": "Party Meal (6 Persons )",
+                    "Price": "KD 15.750"
+                },
+                {
+                    "Name": "Big Value (6 Persons )",
+                    "Price": "KD 15.750"
+                },
+                {
+                    "Name": "Grill And Rolls (6 Persons )",
+                    "Price": "KD 14.750"
+                }
+            ]
+        },
+        {
+            "Category": "  Appetizers ",
+            "dishes": [
+                {
+                    "Name": "Cacik",
+                    "Price": "KD 0.700"
+                }
+            ]
+        },
+        {
+            "Category": " Pilav Bowls (Rice)  ",
+            "dishes": [
+                {
+                    "Name": "Rice Bowl",
+                    "Price": "KD 0.950"
+                },
+                {
+                    "Name": "Tavuk Shish Bowl",
+                    "Price": "KD 2.350"
+                },
+                {
+                    "Name": "Boneless Dish - Boneless Chicken",
+                    "Price": "KD 2.450"
+                }
+            ]
+        },
+        {
+            "Category": " Lavash Rolls "
+        },
+        {
+            "Category": "  Sides ",
+            "dishes": [
+                {
+                    "Name": "Potato Cubes",
+                    "Price": "KD 1.300"
+                },
+                {
+                    "Name": "Sebzeli Minis",
+                    "Price": "KD 1.350"
+                },
+                {
+                    "Name": "Adana Minis",
+                    "Price": "KD 1.350"
+                },
+                {
+                    "Name": "Beyti Minis",
+                    "Price": "KD 1.350"
+                },
+                {
+                    "Name": "Heybetli Minis",
+                    "Price": "KD 1.350"
+                },
+                {
+                    "Name": "Sigara Borek",
+                    "Price": "KD 1.500"
+                }
+            ]
+        },
+        {
+            "Category": " Kids Meal ",
+            "dishes": [
+                {
+                    "Name": "Tavuk Kids Meal",
+                    "Price": "KD 1.500"
+                },
+                {
+                    "Name": "Sebzeli Kids Meal",
+                    "Price": "KD 1.500"
+                }
+            ]
+        },
+        {
+            "Category": " Dips ",
+            "dishes": [
+                {
+                    "Name": "Spicy Sauce",
+                    "Price": "KD 0.250"
+                },
+                {
+                    "Name": "Lemon Garlic Dip",
+                    "Price": "KD 0.250"
+                },
+                {
+                    "Name": "Barbecue Sauce",
+                    "Price": "KD 0.250"
+                },
+                {
+                    "Name": "Labneh Dip",
+                    "Price": "KD 0.250"
+                },
+                {
+                    "Name": "Ranch Sauce",
+                    "Price": "KD 0.250"
+                }
+            ]
+        },
+        {
+            "Category": " Additions ",
+            "dishes": [
+                {
+                    "Name": "Lavash",
+                    "Price": "KD 0.200"
+                }
+            ]
+        },
+        {
+            "Category": " Cold Drinks ",
+            "dishes": [
+                {
+                    "Name": "Alsi Cola",
+                    "Price": "KD 0.300"
+                },
+                {
+                    "Name": "Alsi Cola Zero",
+                    "Price": "KD 0.300"
+                },
+                {
+                    "Name": "Stream Drink",
+                    "Price": "KD 0.300"
+                },
+                {
+                    "Name": "Coca Cola",
+                    "Price": "KD 0.300"
+                },
+                {
+                    "Name": "Coca Cola Light",
+                    "Price": "KD 0.300"
+                },
+                {
+                    "Name": "Sprite",
+                    "Price": "KD 0.300"
+                },
+                {
+                    "Name": "Sprite Light",
+                    "Price": "KD 0.300"
+                },
+                {
+                    "Name": "Fanta Strawberry",
+                    "Price": "KD 0.300"
+                },
+                {
+                    "Name": "Fanta Orange",
+                    "Price": "KD 0.300"
+                }
+            ]
+        }
+    ]
+}
+{
+    "Name": "Bakery House",
+    "Category": " Desserts, Breakfast, Pastries & Sweets ",
+    "Reviews": "Very good",
+    "Delivery": "Within 40 mins",
+    "Services": "N/A",
+    "Food": [
+        {
+            "Category": " Most Selling ",
+            "dishes": [
+                {
+                    "Name": "Mix Musakhan Chicken And Waraq Enab Dibs Roman Medium With Sauce",
+                    "Price": "KD 7.000"
+                },
+                {
+                    "Name": "Mango Trifle Family Size",
+                    "Price": "KD 8.000"
+                },
+                {
+                    "Name": "Sandwich Mix",
+                    "Price": "KD 6.000"
+                },
+                {
+                    "Name": "Tiramisu Truffle Family Size",
+                    "Price": "KD 8.000"
+                },
+                {
+                    "Name": "Waraq Enab With Dobs Roman Medium",
+                    "Price": "KD 7.000"
+                }
+            ]
+        },
+        {
+            "Category": " Luxurious trays for occasions ",
+            "dishes": [
+                {
+                    "Name": "Luxury Mini Sandwich Box ",
+                    "Price": "KD 13.000"
+                },
+                {
+                    "Name": "Luxurious Box Of Halloumi With Zatter",
+                    "Price": "KD 12.000"
+                },
+                {
+                    "Name": "Warag Enab Pomegranate Molasses Luxury Box",
+                    "Price": "KD 12.500"
+                }
+            ]
+        },
+        {
+            "Category": " Luxurious Belgian Chocolate Box ",
+            "dishes": [
+                {
+                    "Name": "Luxury Box Of Wrapped Belgian Chocolate Round",
+                    "Price": "KD 16.000"
+                },
+                {
+                    "Name": "Luxury Box Wrapped Belgian Chocolate Square",
+                    "Price": "KD 19.000"
+                },
+                {
+                    "Name": "Luxurious Belgian Chocolate Box Square",
+                    "Price": "KD 16.500"
+                }
+            ]
+        },
+        {
+            "Category": " Mini ",
+            "dishes": [
+                {
+                    "Name": "Mango",
+                    "Price": "KD 2.000"
+                },
+                {
+                    "Name": "Ghorayeba Walnut",
+                    "Price": "KD 2.000"
+                },
+                {
+                    "Name": "Tiramisu",
+                    "Price": "KD 2.250"
+                },
+                {
+                    "Name": "Rocky Road",
+                    "Price": "KD 2.500"
+                },
+                {
+                    "Name": "Oreo ",
+                    "Price": "KD 2.000"
+                },
+                {
+                    "Name": "Khash Khash",
+                    "Price": "KD 2.000"
+                },
+                {
+                    "Name": "Flake",
+                    "Price": "KD 2.000"
+                },
+                {
+                    "Name": "Lotus",
+                    "Price": "KD 2.000"
+                },
+                {
+                    "Name": "Bitfour",
+                    "Price": "KD 2.250"
+                },
+                {
+                    "Name": "Bounty",
+                    "Price": "KD 2.000"
+                },
+                {
+                    "Name": "Minnie Claire",
+                    "Price": "KD 2.000"
+                },
+                {
+                    "Name": "Mini Cinnamon",
+                    "Price": "KD 2.000"
+                },
+                {
+                    "Name": "Waraq Enab With Dobs Al Roman",
+                    "Price": "KD 2.250"
+                },
+                {
+                    "Name": "Halloumi Musakhan",
+                    "Price": "KD 2.500"
+                },
+                {
+                    "Name": "Chicken Musakhan",
+                    "Price": "KD 2.250"
+                },
+                {
+                    "Name": "Musakhan Fattah With Sumac",
+                    "Price": "KD 4.000"
+                }
+            ]
+        },
+        {
+            "Category": " cookies ",
+            "dishes": [
+                {
+                    "Name": "Choco Cookies",
+                    "Price": "KD 3.000"
+                }
+            ]
+        },
+        {
+            "Category": " Belgian chocolate ",
+            "dishes": [
+                {
+                    "Name": "Mix Mariam",
+                    "Price": "KD 9.000"
+                },
+                {
+                    "Name": "Mishari Cocoa With Belgian Cocoa",
+                    "Price": "KD 9.000"
+                },
+                {
+                    "Name": "Belgian Chocolate Small",
+                    "Price": "KD 9.000"
+                }
+            ]
+        },
+        {
+            "Category": " Desserts Western ",
+            "dishes": [
+                {
+                    "Name": "Colored Caramel Petit Four ",
+                    "Price": "KD 7.500"
+                },
+                {
+                    "Name": "Chocolate Bounty",
+                    "Price": "KD 7.000"
+                },
+                {
+                    "Name": "Mini Cheese Cake",
+                    "Price": "KD 7.000"
+                },
+                {
+                    "Name": "Minnie Claire",
+                    "Price": "KD 5.500"
+                },
+                {
+                    "Name": "Ghorayeba Walnut With Caramel",
+                    "Price": "KD 7.000"
+                },
+                {
+                    "Name": "Caramel Petite Four",
+                    "Price": "KD 7.000"
+                }
+            ]
+        },
+        {
+            "Category": " Pastry "
+        },
+        {
+            "Category": " Mini Sandwiches ",
+            "dishes": [
+                {
+                    "Name": "Sandwich Mix",
+                    "Price": "KD 6.000"
+                }
+            ]
+        },
+        {
+            "Category": " Vine Leaves "
+        },
+        {
+            "Category": " Musakhan Chicken And Halom ",
+            "dishes": [
+                {
+                    "Name": "Maskhin Chicken Medium With Sauce",
+                    "Price": "KD 7.000"
+                },
+                {
+                    "Name": "Maskhin Halloumi With Zaatar Medium With Sauce",
+                    "Price": "KD 7.500"
+                },
+                {
+                    "Name": "Mix Musakhan Halloumi And Musakhan Chicken With Sauce",
+                    "Price": "KD 7.500"
+                }
+            ]
+        },
+        {
+            "Category": " Kebbeh And Sambosa "
+        },
+        {
+            "Category": " Trifle Family Size ",
+            "dishes": [
+                {
+                    "Name": "Mango Trifle Family Size",
+                    "Price": "KD 8.000"
+                },
+                {
+                    "Name": "Trifle Flake Family Size",
+                    "Price": "KD 8.000"
+                },
+                {
+                    "Name": "Tiramisu Truffle Family Size",
+                    "Price": "KD 8.000"
+                },
+                {
+                    "Name": "Trifle Khashkhash Family Size",
+                    "Price": "KD 8.000"
+                },
+                {
+                    "Name": "Lotus Truffle Family Size",
+                    "Price": "KD 8.000"
+                },
+                {
+                    "Name": "Tralicha Cake With Milk Family Size",
+                    "Price": "KD 8.000"
+                }
+            ]
+        },
+        {
+            "Category": " Cakes ",
+            "dishes": [
+                {
+                    "Name": "Pistachio Cake",
+                    "Price": "KD 9.000"
+                },
+                {
+                    "Name": "White Forest",
+                    "Price": "KD 8.000"
+                },
+                {
+                    "Name": "Snickers Cake",
+                    "Price": "KD 8.500"
+                },
+                {
+                    "Name": "Cocolate Cake",
+                    "Price": "KD 8.500"
+                },
+                {
+                    "Name": "Mango Cake",
+                    "Price": "KD 8.000"
+                }
+            ]
+        },
+        {
+            "Category": " children section ",
+            "dishes": [
+                {
+                    "Name": "Mini Cake Drawing",
+                    "Price": "KD 7.250"
+                }
+            ]
+        },
+        {
+            "Category": " Hot and cold drinks ",
+            "dishes": [
+                {
+                    "Name": "Karak Tea",
+                    "Price": "KD 6.500"
+                },
+                {
+                    "Name": "Arabic Coffee",
+                    "Price": "KD 6.500"
+                }
+            ]
+        },
+        {
+            "Category": " Dessert Time  "
+        }
+    ]
+}
+{
+    "Name": "Jimmi's bucket",
+    "Category": " Fried Chicken, American, Fast Food, Chicken ",
+    "Reviews": "Very good",
+    "Delivery": "Within 23 mins",
+    "Services": "Live Tracking, Contactless drop-off",
+    "Food": [
+        {
+            "Category": " Most Selling ",
+            "dishes": [
+                {
+                    "Name": "Fries",
+                    "Price": "KD 1.000"
+                },
+                {
+                    "Name": "Curly Potatoes",
+                    "Price": "KD 1.250"
+                },
+                {
+                    "Name": "Onion Rings",
+                    "Price": "KD 1.500"
+                },
+                {
+                    "Name": "Brioche",
+                    "Price": "KD 0.500"
+                },
+                {
+                    "Name": "Classic Chicken",
+                    "Price": "KD 2.250"
+                }
+            ]
+        },
+        {
+            "Category": " Jimmi\u2019s Bucket  ",
+            "dishes": [
+                {
+                    "Name": "Bucket Of Sandwiches",
+                    "Price": "KD 8.500"
+                }
+            ]
+        },
+        {
+            "Category": " Jimmi's Bone-in Meal "
+        },
+        {
+            "Category": "  Sandwiches & Wrap ",
+            "dishes": [
+                {
+                    "Name": "Classic Chicken",
+                    "Price": "KD 2.250"
+                },
+                {
+                    "Name": "Cajun Chicken Wrap",
+                    "Price": "KD 2.250"
+                },
+                {
+                    "Name": "Classic Chicken Wrap",
+                    "Price": "KD 2.250"
+                },
+                {
+                    "Name": "Nashville Chicken Wrap",
+                    "Price": "KD 2.250"
+                },
+                {
+                    "Name": "Honey Beef Bacon Chicken",
+                    "Price": "KD 2.500"
+                },
+                {
+                    "Name": "Smoked Aioli Chicken",
+                    "Price": "KD 2.500"
+                },
+                {
+                    "Name": "Nashville Chicken",
+                    "Price": "KD 2.250"
+                },
+                {
+                    "Name": "BBQ Chicken  ",
+                    "Price": "KD 2.500"
+                },
+                {
+                    "Name": "Classic Chicken Wrap Meal",
+                    "Price": "KD 3.500"
+                },
+                {
+                    "Name": "Cajun Aioli Wrap Meal",
+                    "Price": "KD 3.500"
+                }
+            ]
+        },
+        {
+            "Category": " Jimmi's Starters ",
+            "dishes": [
+                {
+                    "Name": "Chicken popcorn",
+                    "Price": "KD 0.950"
+                },
+                {
+                    "Name": "Fries",
+                    "Price": "KD 1.000"
+                },
+                {
+                    "Name": "Curly Potatoes",
+                    "Price": "KD 1.250"
+                },
+                {
+                    "Name": "Onion Rings",
+                    "Price": "KD 1.500"
+                },
+                {
+                    "Name": "Coleslaw Salad",
+                    "Price": "KD 0.750"
+                },
+                {
+                    "Name": "Brioche",
+                    "Price": "KD 0.500"
+                },
+                {
+                    "Name": "Korean Corn Dog",
+                    "Price": "KD 1.950"
+                }
+            ]
+        },
+        {
+            "Category": " Sauces ",
+            "dishes": [
+                {
+                    "Name": "Jimmi Sauce",
+                    "Price": "KD 0.350"
+                },
+                {
+                    "Name": "Dijon Honey Mustard",
+                    "Price": "KD 0.350"
+                },
+                {
+                    "Name": "Truffle Mayonnaise",
+                    "Price": "KD 0.350"
+                },
+                {
+                    "Name": "Buttermilk Ranch",
+                    "Price": "KD 0.350"
+                },
+                {
+                    "Name": "Sriracha Mayonnaise",
+                    "Price": "KD 0.350"
+                }
+            ]
+        },
+        {
+            "Category": " Drinks ",
+            "dishes": [
+                {
+                    "Name": "Coke",
+                    "Price": "KD 0.500"
+                },
+                {
+                    "Name": "Diet Coke",
+                    "Price": "KD 0.500"
+                },
+                {
+                    "Name": "Fanta Strawberry",
+                    "Price": "KD 0.500"
+                },
+                {
+                    "Name": "Fanta Orange",
+                    "Price": "KD 0.500"
+                },
+                {
+                    "Name": "Sprite",
+                    "Price": "KD 0.500"
+                }
+            ]
+        }
+    ]
+}
+{
+    "Name": "Shawarma Shakir",
+    "Category": " Shawarma, Beverages, Arabic ",
+    "Reviews": "Very good",
+    "Delivery": "Within 15 mins",
+    "Services": "Live Tracking, Contactless drop-off",
+    "Food": [
+        {
+            "Category": " Most Selling ",
+            "dishes": [
+                {
+                    "Name": "Fried Sliced Potato",
+                    "Price": "KD 0.650"
+                },
+                {
+                    "Name": "Regular Chicken Shawarma",
+                    "Price": "KD 0.750"
+                },
+                {
+                    "Name": "Regular Meat Shawarma",
+                    "Price": "KD 0.750"
+                },
+                {
+                    "Name": "Spicy Meat Shawarma",
+                    "Price": "KD 0.750"
+                },
+                {
+                    "Name": "Laban",
+                    "Price": "KD 0.750"
+                }
+            ]
+        },
+        {
+            "Category": " Shawarma ",
+            "dishes": [
+                {
+                    "Name": "Regular Meat Shawarma",
+                    "Price": "KD 0.750"
+                },
+                {
+                    "Name": "Spicy Meat Shawarma",
+                    "Price": "KD 0.750"
+                }
+            ]
+        },
+        {
+            "Category": " Shakir Boxes ",
+            "dishes": [
+                {
+                    "Name": "Chicken Shawarma Shakir Box",
+                    "Price": "KD 9.000"
+                },
+                {
+                    "Name": "Shakir Shawarma Meat Platter",
+                    "Price": "KD 2.950"
+                },
+                {
+                    "Name": "Shakir Shawarma Chicken Platter",
+                    "Price": "KD 2.950"
+                }
+            ]
+        },
+        {
+            "Category": " Side Dishes ",
+            "dishes": [
+                {
+                    "Name": "Fried Sliced Potato",
+                    "Price": "KD 0.650"
+                },
+                {
+                    "Name": "Hummus",
+                    "Price": "KD 0.650"
+                },
+                {
+                    "Name": "Tahina Sauce",
+                    "Price": "KD 0.200"
+                },
+                {
+                    "Name": "Spicy Mix",
+                    "Price": "KD 0.200"
+                },
+                {
+                    "Name": "Garlic Sauce",
+                    "Price": "KD 0.200"
+                }
+            ]
+        },
+        {
+            "Category": " Juices ",
+            "dishes": [
+                {
+                    "Name": "Laban",
+                    "Price": "KD 0.750"
+                },
+                {
+                    "Name": "Vimto",
+                    "Price": "KD 0.500"
+                },
+                {
+                    "Name": "Shakir Mix 1",
+                    "Price": "KD 1.300"
+                },
+                {
+                    "Name": "Shakir Mix 2",
+                    "Price": "KD 1.300"
+                },
+                {
+                    "Name": "Shakir Mix 3",
+                    "Price": "KD 1.300"
+                },
+                {
+                    "Name": "Shakir Mix 4",
+                    "Price": "KD 1.300"
+                },
+                {
+                    "Name": "Shakir Watermelon",
+                    "Price": "KD 1.300"
+                },
+                {
+                    "Name": "Shakir Mango",
+                    "Price": "KD 1.300"
+                },
+                {
+                    "Name": "Shakir Lemonade",
+                    "Price": "KD 1.300"
+                },
+                {
+                    "Name": "Shakir Banana",
+                    "Price": "KD 1.300"
+                }
+            ]
+        },
+        {
+            "Category": " Soft Drinks ",
+            "dishes": [
+                {
+                    "Name": "Coca-Cola",
+                    "Price": "KD 0.250"
+                },
+                {
+                    "Name": "Diet Coke",
+                    "Price": "KD 0.250"
+                },
+                {
+                    "Name": "Sprite",
+                    "Price": "KD 0.250"
+                },
+                {
+                    "Name": "Sprite Light",
+                    "Price": "KD 0.250"
+                },
+                {
+                    "Name": "Fanta Strawberry",
+                    "Price": "KD 0.250"
+                },
+                {
+                    "Name": "Fanta Orange",
+                    "Price": "KD 0.250"
+                }
+            ]
+        }
+    ]
+}
+{
+    "Name": "Burger King",
+    "Category": " Burgers, Fast Food, Fried Chicken ",
+    "Reviews": "Amazing",
+    "Delivery": "Within 55 mins",
+    "Services": "N/A",
+    "Food": [
+        {
+            "Category": " Most Selling ",
+            "dishes": [
+                {
+                    "Name": "Chicken Royale Meal",
+                    "Price": "KD 2.250"
+                },
+                {
+                    "Name": "King Deal Meal",
+                    "Price": "KD 2.500"
+                },
+                {
+                    "Name": "Jalapeno Cheese Nuggets 6 PCS",
+                    "Price": "KD 0.900"
+                },
+                {
+                    "Name": "Chicken Fries",
+                    "Price": "KD 1.000"
+                },
+                {
+                    "Name": "Double Whopper Meal",
+                    "Price": "KD 2.650"
+                }
+            ]
+        },
+        {
+            "Category": " NEW Smokey BBQ Range ",
+            "dishes": [
+                {
+                    "Name": "Smokey BBQ Whopper Meal",
+                    "Price": "KD 2.500"
+                },
+                {
+                    "Name": "Smokey BBQ Royale Meal",
+                    "Price": "KD 2.450"
+                },
+                {
+                    "Name": "Smokey BBQ Chicken Meal",
+                    "Price": "KD 2.600"
+                },
+                {
+                    "Name": "Smokey BBQ Whopper",
+                    "Price": "KD 1.650"
+                },
+                {
+                    "Name": "Smokey BBQ Royale",
+                    "Price": "KD 1.600"
+                },
+                {
+                    "Name": "Smokey BBQ Chicken",
+                    "Price": "KD 1.750"
+                },
+                {
+                    "Name": "Chicken BBQ Fries",
+                    "Price": "KD 1.250"
+                }
+            ]
+        },
+        {
+            "Category": " ONLY on Talabat ",
+            "dishes": [
+                {
+                    "Name": "King Deal Meal",
+                    "Price": "KD 2.500"
+                },
+                {
+                    "Name": "Plant-based King Deal",
+                    "Price": "KD 2.500"
+                },
+                {
+                    "Name": "Steakhouse beef double deal",
+                    "Price": "KD 3.250"
+                },
+                {
+                    "Name": "Steakhouse Royale double deal",
+                    "Price": "KD 3.250"
+                },
+                {
+                    "Name": "Steakhouse fillet double deal",
+                    "Price": "KD 3.250"
+                },
+                {
+                    "Name": "Double Spicy Royale Deal",
+                    "Price": "KD 2.650"
+                },
+                {
+                    "Name": "Double Whopper Kings Deal",
+                    "Price": "KD 2.900"
+                }
+            ]
+        },
+        {
+            "Category": " Flame Grilled Meals ",
+            "dishes": [
+                {
+                    "Name": "Big King Beef XL Meal",
+                    "Price": "KD 2.650"
+                },
+                {
+                    "Name": "Steakhouse Beef Meal ",
+                    "Price": "KD 2.550"
+                },
+                {
+                    "Name": "Triple Whopper Meal",
+                    "Price": "KD 3.050"
+                },
+                {
+                    "Name": "Double Whopper Meal",
+                    "Price": "KD 2.650"
+                },
+                {
+                    "Name": "Double King Quarter pound Meal",
+                    "Price": "KD 2.650"
+                },
+                {
+                    "Name": "Mushroom N Swiss XXL Meal",
+                    "Price": "KD 2.650"
+                },
+                {
+                    "Name": "Whopper Junior Meal",
+                    "Price": "KD 1.950"
+                },
+                {
+                    "Name": "Whopper Meal",
+                    "Price": "KD 2.250"
+                },
+                {
+                    "Name": "Hamburger Meal",
+                    "Price": "KD 1.400"
+                }
+            ]
+        },
+        {
+            "Category": " Chicken & Crispy Meals ",
+            "dishes": [
+                {
+                    "Name": "Spicy Chicken Royale Meal",
+                    "Price": "KD 2.300"
+                },
+                {
+                    "Name": "Chicken Royale Steakhouse Meal ",
+                    "Price": "KD 2.650"
+                },
+                {
+                    "Name": "Big King Royale Meal",
+                    "Price": "KD 2.650"
+                },
+                {
+                    "Name": " Fillet steakhouse meal",
+                    "Price": "KD 2.650"
+                },
+                {
+                    "Name": "Grilled chicken Steakhouse Meal ",
+                    "Price": "KD 2.650"
+                },
+                {
+                    "Name": "King Chicken Fillet Meal",
+                    "Price": "KD 2.450"
+                },
+                {
+                    "Name": "Double Chicken Royale Meal",
+                    "Price": "KD 2.650"
+                },
+                {
+                    "Name": "Chicken Royale Meal",
+                    "Price": "KD 2.250"
+                },
+                {
+                    "Name": "Chicken Burger Meal",
+                    "Price": "KD 1.900"
+                },
+                {
+                    "Name": "Chicken Tenders 10 Pcs Meal",
+                    "Price": "KD 2.200"
+                },
+                {
+                    "Name": "Chicken Tenders 6 Pcs Meal",
+                    "Price": "KD 1.900"
+                },
+                {
+                    "Name": "Chicken Whopper Meal",
+                    "Price": "KD 2.450"
+                }
+            ]
+        },
+        {
+            "Category": " KING'S PLANT-BASED ",
+            "dishes": [
+                {
+                    "Name": "Double Plant-based Chicken Royale Meal",
+                    "Price": "KD 2.650"
+                },
+                {
+                    "Name": "Plant-based Royale Meal",
+                    "Price": "KD 2.250"
+                },
+                {
+                    "Name": "Double Plant-based Chicken Royale Sandwich",
+                    "Price": "KD 1.800"
+                }
+            ]
+        },
+        {
+            "Category": " Sides and Salads ",
+            "dishes": [
+                {
+                    "Name": "Chimichuri sauce",
+                    "Price": "KD 0.200"
+                },
+                {
+                    "Name": "Chicken Fries",
+                    "Price": "KD 1.000"
+                },
+                {
+                    "Name": "Jalapeno Cheese Nuggets 6 PCS",
+                    "Price": "KD 0.900"
+                },
+                {
+                    "Name": "King Shrimp",
+                    "Price": "KD 1.000"
+                },
+                {
+                    "Name": "Mozarella Sticks 4 PCS",
+                    "Price": "KD 1.000"
+                },
+                {
+                    "Name": "Family Mix Fries",
+                    "Price": "KD 1.500"
+                },
+                {
+                    "Name": "Family Fries Meal",
+                    "Price": "KD 1.400"
+                },
+                {
+                    "Name": "Snack Box Plus",
+                    "Price": "KD 1.750"
+                },
+                {
+                    "Name": "Tartar sauce",
+                    "Price": "KD 0.200"
+                },
+                {
+                    "Name": "Mayo'Chup",
+                    "Price": "KD 0.250"
+                },
+                {
+                    "Name": "Garlic Mayo",
+                    "Price": "KD 0.100"
+                },
+                {
+                    "Name": "BBQ Sauce",
+                    "Price": "KD 0.100"
+                },
+                {
+                    "Name": "Fiery Sauce",
+                    "Price": "KD 0.100"
+                },
+                {
+                    "Name": "Marinara Sauce",
+                    "Price": "KD 0.150"
+                },
+                {
+                    "Name": "2 Mayonnaise Packet",
+                    "Price": "KD 0.050"
+                },
+                {
+                    "Name": "King Salad",
+                    "Price": "KD 1.250"
+                },
+                {
+                    "Name": "Coleslaw Salad",
+                    "Price": "KD 0.500"
+                }
+            ]
+        },
+        {
+            "Category": " Super King Meals ",
+            "dishes": [
+                {
+                    "Name": "Smokey BBQ whopper meal  - SUPER KING",
+                    "Price": "KD 3.000"
+                },
+                {
+                    "Name": "Smokey BBQ Royale meal - SUPER KING",
+                    "Price": "KD 2.950"
+                },
+                {
+                    "Name": "Smokey BBQ Chicken meal- SUPER KING ",
+                    "Price": "KD 3.100"
+                },
+                {
+                    "Name": "Spicy Chicken Royale Meal - Super King",
+                    "Price": "KD 2.800"
+                },
+                {
+                    "Name": "Junior Mushroom 'N' Swiss Meal - Super King",
+                    "Price": "KD 2.450"
+                },
+                {
+                    "Name": "Royale Steakhouse Meal - Super King",
+                    "Price": "KD 3.150"
+                },
+                {
+                    "Name": "Double Chicken Royale Meal - Super King",
+                    "Price": "KD 3.150"
+                },
+                {
+                    "Name": "Chicken Royale Meal - Super King",
+                    "Price": "KD 2.750"
+                },
+                {
+                    "Name": "Whopper Meal - Super King",
+                    "Price": "KD 2.750"
+                },
+                {
+                    "Name": "Double Whopper Meal - Super King",
+                    "Price": "KD 3.150"
+                },
+                {
+                    "Name": "Triple Whopper Meal - Super King",
+                    "Price": "KD 3.550"
+                },
+                {
+                    "Name": "King Chicken Fillet Meal - Super King",
+                    "Price": "KD 2.950"
+                },
+                {
+                    "Name": "Chicken Whopper Meal - Super King",
+                    "Price": "KD 2.950"
+                },
+                {
+                    "Name": "Mushroom N Swiss XXL Meal - Super King",
+                    "Price": "KD 3.150"
+                },
+                {
+                    "Name": "Chicken Tenders 6 Pcs - Super King",
+                    "Price": "KD 2.400"
+                },
+                {
+                    "Name": "Chicken Tenders 10 Pcs - Super King",
+                    "Price": "KD 2.700"
+                },
+                {
+                    "Name": "Grilled Chicken Steakhouse Meal - Super King",
+                    "Price": "KD 3.200"
+                },
+                {
+                    "Name": "Chicken Burger Meal - Super King",
+                    "Price": "KD 2.400"
+                },
+                {
+                    "Name": "Double Cheese Burger Meal - Super King",
+                    "Price": "KD 2.550"
+                },
+                {
+                    "Name": "Beef Steakhouse Meal - Super King",
+                    "Price": "KD 3.050"
+                },
+                {
+                    "Name": "Whopper Junior Meal - Super King",
+                    "Price": "KD 2.450"
+                },
+                {
+                    "Name": "Double King Quarter pound Meal - Super King",
+                    "Price": "KD 3.150"
+                },
+                {
+                    "Name": "Bean Burger Meal - Super King",
+                    "Price": "KD 2.450"
+                },
+                {
+                    "Name": "Junior Steakhouse Meal - Super King",
+                    "Price": "KD 2.450"
+                },
+                {
+                    "Name": "Junior Big King Meal - Super King",
+                    "Price": "KD 2.450"
+                },
+                {
+                    "Name": "Junior Chicken Steakhouse Meal - Super King",
+                    "Price": "KD 2.450"
+                },
+                {
+                    "Name": "Junior Chicken Big King Meal - Super King",
+                    "Price": "KD 2.450"
+                },
+                {
+                    "Name": "Deluxe Chicken Burger Meal - Super King",
+                    "Price": "KD 2.450"
+                },
+                {
+                    "Name": "Fillet steakhouse meal - Super King",
+                    "Price": "KD 3.150"
+                },
+                {
+                    "Name": "Big King Beef XL Meal - Super King",
+                    "Price": "KD 3.150"
+                },
+                {
+                    "Name": "Plant based Royale - Super King",
+                    "Price": "KD 2.750"
+                },
+                {
+                    "Name": "Big King Royale Meal - Super King",
+                    "Price": "KD 3.150"
+                }
+            ]
+        },
+        {
+            "Category": " Junior Deluxe Menu ",
+            "dishes": [
+                {
+                    "Name": "Junior Steakhouse Meal",
+                    "Price": "KD 1.950"
+                },
+                {
+                    "Name": "Junior Mushroom \u2018N\u2019 Swiss Meal",
+                    "Price": "KD 1.950"
+                },
+                {
+                    "Name": "Junior Big King Meal",
+                    "Price": "KD 1.950"
+                },
+                {
+                    "Name": "Junior Chicken Steakhouse Meal",
+                    "Price": "KD 1.950"
+                },
+                {
+                    "Name": "Junior Chicken Big King Meal",
+                    "Price": "KD 1.950"
+                },
+                {
+                    "Name": "Deluxe Chicken Burger Meal",
+                    "Price": "KD 1.950"
+                },
+                {
+                    "Name": "Junior Steakhouse",
+                    "Price": "KD 1.100"
+                },
+                {
+                    "Name": "Junior Chicken Steakhouse",
+                    "Price": "KD 1.100"
+                },
+                {
+                    "Name": "Junior Big King",
+                    "Price": "KD 1.100"
+                },
+                {
+                    "Name": "Junior Mushroom \u2018N\u2019 Swiss",
+                    "Price": "KD 1.100"
+                },
+                {
+                    "Name": "Junior Chicken Big King",
+                    "Price": "KD 1.100"
+                }
+            ]
+        },
+        {
+            "Category": " Sandwiches ",
+            "dishes": [
+                {
+                    "Name": "Grilled chicken Steakhouse Sandwich",
+                    "Price": "KD 1.800"
+                },
+                {
+                    "Name": "Steakhouse Beef Sandwich",
+                    "Price": "KD 1.700"
+                },
+                {
+                    "Name": "Big King Beef XL",
+                    "Price": "KD 1.800"
+                },
+                {
+                    "Name": " Fillet steakhouse Sandwich",
+                    "Price": "KD 1.800"
+                },
+                {
+                    "Name": " Chicken Royale steakhouse Sandwich ",
+                    "Price": "KD 1.800"
+                },
+                {
+                    "Name": "Big king Royale",
+                    "Price": "KD 1.800"
+                },
+                {
+                    "Name": "King Chicken Fillet",
+                    "Price": "KD 1.600"
+                },
+                {
+                    "Name": "Whopper",
+                    "Price": "KD 1.400"
+                },
+                {
+                    "Name": "Spicy Chicken Royale",
+                    "Price": "KD 1.450"
+                },
+                {
+                    "Name": "Bean Burger",
+                    "Price": "KD 1.100"
+                },
+                {
+                    "Name": "Chicken Burger",
+                    "Price": "KD 1.050"
+                },
+                {
+                    "Name": "Double King Quarter pound",
+                    "Price": "KD 1.800"
+                },
+                {
+                    "Name": "Double Chicken Royale ",
+                    "Price": "KD 1.800"
+                },
+                {
+                    "Name": "Chicken Royale",
+                    "Price": "KD 1.400"
+                },
+                {
+                    "Name": "Chicken Whopper",
+                    "Price": "KD 1.600"
+                },
+                {
+                    "Name": "Double Whopper",
+                    "Price": "KD 1.800"
+                },
+                {
+                    "Name": "Mushroom N Swiss XXL",
+                    "Price": "KD 1.800"
+                },
+                {
+                    "Name": "Triple Whopper",
+                    "Price": "KD 2.200"
+                },
+                {
+                    "Name": "Whopper Junior",
+                    "Price": "KD 1.100"
+                },
+                {
+                    "Name": "Cheese Burger",
+                    "Price": "KD 0.650"
+                }
+            ]
+        },
+        {
+            "Category": " Kids  Meal ",
+            "dishes": [
+                {
+                    "Name": "4Pcs Kids Chicken Tenders Meal ",
+                    "Price": "KD 1.000"
+                },
+                {
+                    "Name": "Junior 6 pcs Chicken Tenders Meal",
+                    "Price": "KD 1.400"
+                },
+                {
+                    "Name": "Kids Cheese Burger Meal ",
+                    "Price": "KD 1.000"
+                },
+                {
+                    "Name": "Junior Cheeseburger Meal",
+                    "Price": "KD 1.400"
+                },
+                {
+                    "Name": "Kids Chicken Burger Meal ",
+                    "Price": "KD 1.000"
+                },
+                {
+                    "Name": "Junior Chicken Burger Meal",
+                    "Price": "KD 1.400"
+                }
+            ]
+        },
+        {
+            "Category": " Family and Friends Offers ",
+            "dishes": [
+                {
+                    "Name": "2 Royale + Kids meal",
+                    "Price": "KD 3.500"
+                },
+                {
+                    "Name": "Mix Royale Family Deal",
+                    "Price": "KD 5.250"
+                },
+                {
+                    "Name": "2 Whopper + Kids meal",
+                    "Price": "KD 3.500"
+                },
+                {
+                    "Name": "Chicken Royale Family Deal",
+                    "Price": "KD 5.250"
+                },
+                {
+                    "Name": "Whopper Family Deal",
+                    "Price": "KD 5.250"
+                },
+                {
+                    "Name": "Mix & Match",
+                    "Price": "KD 7.250"
+                },
+                {
+                    "Name": "Chicken Lovers Meal - 6.500",
+                    "Price": "KD 6.500"
+                },
+                {
+                    "Name": "Beef Lovers Meal - 6.500",
+                    "Price": "KD 6.500"
+                },
+                {
+                    "Name": "Mix Lovers Meal",
+                    "Price": "KD 6.500"
+                },
+                {
+                    "Name": "Mega Mix Royale Family Deal",
+                    "Price": "KD 8.250"
+                },
+                {
+                    "Name": "Mega Royale Family Deal",
+                    "Price": "KD 8.250"
+                },
+                {
+                    "Name": "Mega Whopper Family Deal",
+                    "Price": "KD 8.250"
+                },
+                {
+                    "Name": "The Gathering Meal",
+                    "Price": "KD 10.000"
+                },
+                {
+                    "Name": "1 Royale + 1 Whopper + Kids meal",
+                    "Price": "KD 3.500"
+                },
+                {
+                    "Name": "2 Meals + 2 Kids meals",
+                    "Price": "KD 4.950"
+                },
+                {
+                    "Name": "1 Meal + 2 Kids meals",
+                    "Price": "KD 3.250"
+                }
+            ]
+        },
+        {
+            "Category": " Desserts and Drinks ",
+            "dishes": [
+                {
+                    "Name": "Oreo Cake",
+                    "Price": "KD 0.750"
+                },
+                {
+                    "Name": "Apple Pie",
+                    "Price": "KD 0.450"
+                },
+                {
+                    "Name": "Chocolate Milkshake",
+                    "Price": "KD 0.750"
+                },
+                {
+                    "Name": "Vanilla Milkshake",
+                    "Price": "KD 0.750"
+                },
+                {
+                    "Name": "Strawberry Milkshake",
+                    "Price": "KD 0.750"
+                },
+                {
+                    "Name": "Coca Cola",
+                    "Price": "KD 0.450"
+                },
+                {
+                    "Name": "Coke Zero",
+                    "Price": "KD 0.450"
+                },
+                {
+                    "Name": "Fanta",
+                    "Price": "KD 0.450"
+                },
+                {
+                    "Name": "Sprite",
+                    "Price": "KD 0.450"
+                },
+                {
+                    "Name": "Mineral Water 500 ML",
+                    "Price": "KD 0.250"
+                },
+                {
+                    "Name": "American coffee",
+                    "Price": "KD 0.750"
+                },
+                {
+                    "Name": "Cappuccino",
+                    "Price": "KD 0.850"
+                }
+            ]
+        }
+    ]
+}
+{
+    "Name": "UR Cookies",
+    "Category": " Desserts, Chocolate , Coffee ",
+    "Reviews": "Amazing",
+    "Delivery": "Within 19 mins",
+    "Services": "Live Tracking, Contactless drop-off",
+    "Food": [
+        {
+            "Category": " Most Selling ",
+            "dishes": [
+                {
+                    "Name": "Ice Cream Sandwich",
+                    "Price": "KD 10.900"
+                },
+                {
+                    "Name": "Zwara Box Cookies",
+                    "Price": "KD 10.750KD 9.750"
+                }
+            ]
+        },
+        {
+            "Category": " Gathering Box ",
+            "dishes": [
+                {
+                    "Name": "Zwara Box Cookies",
+                    "Price": "KD 10.750KD 9.750"
+                }
+            ]
+        },
+        {
+            "Category": " Cookies "
+        },
+        {
+            "Category": "  Ice Cream  ",
+            "dishes": [
+                {
+                    "Name": "Ice Cream Sandwich",
+                    "Price": "KD 10.900"
+                },
+                {
+                    "Name": "UR Bites ",
+                    "Price": "KD 2.250"
+                }
+            ]
+        },
+        {
+            "Category": " Beverages "
+        }
+    ]
+}
+{
+    "Name": "89 Sweets",
+    "Category": " Desserts, Chocolate , Arabic sweets ",
+    "Reviews": "Amazing",
+    "Delivery": "Within 50 mins",
+    "Services": "N/A",
+    "Food": [
+        {
+            "Category": " Most Selling ",
+            "dishes": [
+                {
+                    "Name": "BOX MIX CHOCLATE 2022 Large",
+                    "Price": "KD 13.000"
+                },
+                {
+                    "Name": "Box new mix large",
+                    "Price": "KD 13.000"
+                },
+                {
+                    "Name": "Box New Coffee Chocolate",
+                    "Price": "KD 12.000"
+                }
+            ]
+        },
+        {
+            "Category": " OFFERS FOR DAILY ORDER ",
+            "dishes": [
+                {
+                    "Name": ".Offer Diamond Trays Light Brown",
+                    "Price": "KD 27.000"
+                },
+                {
+                    "Name": "Offer 3 Diamond Trays Black",
+                    "Price": "KD 36.000"
+                },
+                {
+                    "Name": "Offer Letter Trays Bites",
+                    "Price": "KD 35.000"
+                },
+                {
+                    "Name": "Offer wood trays star",
+                    "Price": "KD 30.000"
+                },
+                {
+                    "Name": "Offer Babka",
+                    "Price": "KD 13.000"
+                },
+                {
+                    "Name": "Offer Diamond Trays Black",
+                    "Price": "KD 27.000"
+                },
+                {
+                    "Name": "Offer 3 Shamwa Trays White",
+                    "Price": "KD 33.000"
+                },
+                {
+                    "Name": "Offer Diamond Trays Light Brown",
+                    "Price": "KD 27.000"
+                },
+                {
+                    "Name": "Offer Diamond Trays White",
+                    "Price": "KD 27.000"
+                },
+                {
+                    "Name": "Offer Shamwa Trays White",
+                    "Price": "KD 25.000"
+                },
+                {
+                    "Name": "Offer Shamwa Trays Black Bites",
+                    "Price": "KD 25.000"
+                },
+                {
+                    "Name": "Offer Shamwa Trays Pink",
+                    "Price": "KD 25.000"
+                },
+                {
+                    "Name": "Offer Mix Taco Large",
+                    "Price": "KD 20.000"
+                },
+                {
+                    "Name": "Offer NewMix & Salty Box",
+                    "Price": "KD 20.000"
+                },
+                {
+                    "Name": "Offer Modern Sandwich Large",
+                    "Price": "KD 20.000"
+                },
+                {
+                    "Name": "Offer Shamwa Trays Pink Bites",
+                    "Price": "KD 25.000"
+                },
+                {
+                    "Name": "Offer Choco Bullz & Salty Box",
+                    "Price": "KD 20.000"
+                },
+                {
+                    "Name": "Offer Shamwa Trays White Bites",
+                    "Price": "KD 25.000"
+                },
+                {
+                    "Name": "Offer Bedayatna",
+                    "Price": "KD 19.000"
+                },
+                {
+                    "Name": "Offer Bedayatna New",
+                    "Price": "KD 19.000"
+                },
+                {
+                    "Name": "Offer 3 Boxes",
+                    "Price": "KD 19.500"
+                },
+                {
+                    "Name": "Offer Modern",
+                    "Price": "KD 13.000"
+                },
+                {
+                    "Name": "Offer New Mix Medium",
+                    "Price": "KD 13.000"
+                },
+                {
+                    "Name": "Offer chocolate & Mix pastry",
+                    "Price": "KD 13.000"
+                },
+                {
+                    "Name": "Offer Modern Star",
+                    "Price": "KD 13.000"
+                },
+                {
+                    "Name": "Offer chocolate & Min Bites",
+                    "Price": "KD 13.000"
+                },
+                {
+                    "Name": "Offer Fattah Waraq Eanab",
+                    "Price": "KD 13.000"
+                },
+                {
+                    "Name": "Offer Club Sandwich",
+                    "Price": "KD 13.000"
+                },
+                {
+                    "Name": "Offer Diamond Trays Pink",
+                    "Price": "KD 27.000"
+                },
+                {
+                    "Name": "Offer Shamwa Trays Black",
+                    "Price": "KD 25.000"
+                },
+                {
+                    "Name": "Offer Taco Medium",
+                    "Price": "KD 13.000"
+                }
+            ]
+        },
+        {
+            "Category": " Chocolate Boxes ",
+            "dishes": [
+                {
+                    "Name": "BOX MIX CHOCLATE 2022 Large",
+                    "Price": "KD 13.000"
+                },
+                {
+                    "Name": "Box New Coffee Chocolate",
+                    "Price": "KD 12.000"
+                },
+                {
+                    "Name": "Box Choco Bullz",
+                    "Price": "KD 13.000"
+                },
+                {
+                    "Name": "Box new mix large",
+                    "Price": "KD 13.000"
+                },
+                {
+                    "Name": "Box Coffee Chocolate",
+                    "Price": "KD 12.000"
+                },
+                {
+                    "Name": "Box Browny",
+                    "Price": "KD 11.000"
+                },
+                {
+                    "Name": "BOX MIX CHOCOLATE 2022",
+                    "Price": "KD 8.000"
+                },
+                {
+                    "Name": "Box Zater",
+                    "Price": "KD 11.000"
+                },
+                {
+                    "Name": "Box Mix Chocolate Medium",
+                    "Price": "KD 8.000"
+                }
+            ]
+        },
+        {
+            "Category": " Shamwa  Trays ",
+            "dishes": [
+                {
+                    "Name": "Shamwa Tray Pink",
+                    "Price": "KD 16.500"
+                },
+                {
+                    "Name": "Shamwa Tray white",
+                    "Price": "KD 16.500"
+                },
+                {
+                    "Name": "Shamwa Tray Beige",
+                    "Price": "KD 16.500"
+                }
+            ]
+        },
+        {
+            "Category": " Diamond  Trays ",
+            "dishes": [
+                {
+                    "Name": "Diamond Tray White",
+                    "Price": "KD 17.500"
+                },
+                {
+                    "Name": "Diamond Tray Pink",
+                    "Price": "KD 17.500"
+                },
+                {
+                    "Name": "Diamond Tray Black",
+                    "Price": "KD 17.500"
+                }
+            ]
+        },
+        {
+            "Category": " Wood  Trays ",
+            "dishes": [
+                {
+                    "Name": "Wood Tray",
+                    "Price": "KD 23.000"
+                }
+            ]
+        },
+        {
+            "Category": " Ceramic  Tray ",
+            "dishes": [
+                {
+                    "Name": "Ceramic Tray",
+                    "Price": "KD 23.000"
+                }
+            ]
+        },
+        {
+            "Category": " Flower Trays ",
+            "dishes": [
+                {
+                    "Name": "Natural Flower Tray Black",
+                    "Price": "KD 25.000"
+                },
+                {
+                    "Name": "Natural Flower Tray Brown",
+                    "Price": "KD 25.000"
+                },
+                {
+                    "Name": "Natural Flower Tray white",
+                    "Price": "KD 25.000"
+                }
+            ]
+        },
+        {
+            "Category": " Acrylic trays ",
+            "dishes": [
+                {
+                    "Name": "Letter Tray Snow",
+                    "Price": "KD 23.000"
+                },
+                {
+                    "Name": "Letter Tray Blue",
+                    "Price": "KD 23.000"
+                }
+            ]
+        },
+        {
+            "Category": " Mawalleh  Boxes ",
+            "dishes": [
+                {
+                    "Name": "Pyramid Mawalleh Star",
+                    "Price": "KD 17.000"
+                },
+                {
+                    "Name": "Diamond Tray Light Brown Bites",
+                    "Price": "KD 14.500"
+                },
+                {
+                    "Name": "Ceramic Tray Fattah Waraq Eanab",
+                    "Price": "KD 17.000"
+                },
+                {
+                    "Name": "Wood Tray Bites",
+                    "Price": "KD 17.000"
+                },
+                {
+                    "Name": "Shamwa Tray White Bites",
+                    "Price": "KD 14.500"
+                },
+                {
+                    "Name": "Shamwa Tray Black Bites",
+                    "Price": "KD 14.500"
+                },
+                {
+                    "Name": "Shamwa Tray White Mawaleh",
+                    "Price": "KD 14.500"
+                },
+                {
+                    "Name": "Shamwa Tray Pink Bites",
+                    "Price": "KD 14.500"
+                },
+                {
+                    "Name": "Shamwa Tray Pink Mawaleh",
+                    "Price": "KD 14.500"
+                },
+                {
+                    "Name": "Shamwa Tray Black Mawaleh",
+                    "Price": "KD 14.500"
+                },
+                {
+                    "Name": "Box Mawalleh Medium",
+                    "Price": "KD 10.000"
+                },
+                {
+                    "Name": "Taco box",
+                    "Price": "KD 10.000"
+                },
+                {
+                    "Name": "Sandwich Box",
+                    "Price": "KD 11.000"
+                },
+                {
+                    "Name": "Box Mawalleh Babka",
+                    "Price": "KD 10.000"
+                },
+                {
+                    "Name": "Box Taco Large",
+                    "Price": "KD 11.000"
+                },
+                {
+                    "Name": "Box Fattah Waraq Eanab",
+                    "Price": "KD 10.000"
+                },
+                {
+                    "Name": "Box Mini Bites medium",
+                    "Price": "KD 10.000"
+                },
+                {
+                    "Name": "Box Mini Bites large",
+                    "Price": "KD 11.000"
+                },
+                {
+                    "Name": "Box Mix pastry",
+                    "Price": "KD 10.000"
+                },
+                {
+                    "Name": "DiamondTray Black Mawaleh",
+                    "Price": "KD 14.500"
+                },
+                {
+                    "Name": "Box Star",
+                    "Price": "KD 10.000"
+                },
+                {
+                    "Name": "Box Club Sandwich large",
+                    "Price": "KD 11.000"
+                },
+                {
+                    "Name": "Diamond Tray Black Fattah Waraq Eanab",
+                    "Price": "KD 14.500"
+                },
+                {
+                    "Name": "Box Club Sandwich medium",
+                    "Price": "KD 10.000"
+                },
+                {
+                    "Name": "Diamond Tray Black Bites",
+                    "Price": "KD 14.500"
+                },
+                {
+                    "Name": "Diamond Tray White Mawaleh",
+                    "Price": "KD 14.500"
+                }
+            ]
+        },
+        {
+            "Category": " Chocolate Per Kilo "
+        },
+        {
+            "Category": " dawawin ",
+            "dishes": [
+                {
+                    "Name": "Diamond stand Black with Tamr fillings",
+                    "Price": "KD 14.000"
+                },
+                {
+                    "Name": "Mazhrya Eltamr",
+                    "Price": "KD 19.500"
+                },
+                {
+                    "Name": "Diamond Tray Black Brownie",
+                    "Price": "KD 14.000"
+                },
+                {
+                    "Name": "Luxurious black leather stand chocolate with alzatar",
+                    "Price": "KD 14.000"
+                },
+                {
+                    "Name": "Diamond stand Black Choco Bullz",
+                    "Price": "KD 14.000"
+                },
+                {
+                    "Name": "Diamond stand Light Brown simsimia",
+                    "Price": "KD 13.000"
+                },
+                {
+                    "Name": "Diamond stand White Gariba  with saffron",
+                    "Price": "KD 13.000"
+                },
+                {
+                    "Name": "Diamond stand beige muthalathat  tamr with chocolate",
+                    "Price": "KD 14.500"
+                }
+            ]
+        },
+        {
+            "Category": " Distributions & Gifts "
+        },
+        {
+            "Category": " Crystal Trays ",
+            "dishes": [
+                {
+                    "Name": "Crystal New",
+                    "Price": "KD 21.000"
+                },
+                {
+                    "Name": "Crystal Tray Blue",
+                    "Price": "KD 23.000"
+                }
+            ]
+        }
+    ]
+}
+{
+    "Name": "CINNABON",
+    "Category": " Desserts, Breakfast, Cafe ",
+    "Reviews": "Very good",
+    "Delivery": "Within 29 mins",
+    "Services": "Live Tracking, Contactless drop-off",
+    "Food": [
+        {
+            "Category": " Most Selling ",
+            "dishes": [
+                {
+                    "Name": "Cinnabon Classic",
+                    "Price": "KD 1.250"
+                },
+                {
+                    "Name": "Caramel Pecan Bon",
+                    "Price": "KD 1.500"
+                },
+                {
+                    "Name": "Pecan Bites",
+                    "Price": "KD 1.350"
+                },
+                {
+                    "Name": "Classic Bites",
+                    "Price": "KD 1.250"
+                },
+                {
+                    "Name": "Cinnabon Classic 4 Pcs Hot",
+                    "Price": "KD 4.600"
+                }
+            ]
+        },
+        {
+            "Category": " FRESH H-PACKS ",
+            "dishes": [
+                {
+                    "Name": "Caramel Pecanbon 6 Pcs Hot",
+                    "Price": "KD 8.500"
+                },
+                {
+                    "Name": "Chocobon 4 Pcs Hot",
+                    "Price": "KD 5.200"
+                },
+                {
+                    "Name": "Chocobon 6 Pcs Hot",
+                    "Price": "KD 7.900"
+                },
+                {
+                    "Name": "Cinnabon Classic 4 Pcs Hot",
+                    "Price": "KD 4.600"
+                },
+                {
+                    "Name": "Cinnabon Classic 6 Pcs Hot",
+                    "Price": "KD 7.000"
+                },
+                {
+                    "Name": "Combo 15 Pcs Mini Hot",
+                    "Price": "KD 16.500"
+                },
+                {
+                    "Name": "Combo 4 Pcs Hot",
+                    "Price": "KD 5.000"
+                },
+                {
+                    "Name": "Combo 6 Pcs Hot",
+                    "Price": "KD 7.900"
+                },
+                {
+                    "Name": "Combo 9 Pcs Mini Hot",
+                    "Price": "KD 9.800"
+                },
+                {
+                    "Name": "Mini Caramel Pecan 15 Pcs Hot",
+                    "Price": "KD 18.250"
+                },
+                {
+                    "Name": "Mini Caramel Pecan 9 Pcs Hot",
+                    "Price": "KD 11.000"
+                },
+                {
+                    "Name": "Mini Choco 15 Pcs Hot",
+                    "Price": "KD 16.750"
+                },
+                {
+                    "Name": "Mini Choco 9pcs Hot",
+                    "Price": "KD 10.000"
+                },
+                {
+                    "Name": "Minibon 15 Pcs Hot",
+                    "Price": "KD 14.000"
+                }
+            ]
+        },
+        {
+            "Category": " SBC-HOT COFFEE ",
+            "dishes": [
+                {
+                    "Name": "American Coffee Grande",
+                    "Price": "KD 1.200"
+                },
+                {
+                    "Name": "American Coffee Supremo",
+                    "Price": "KD 1.400"
+                },
+                {
+                    "Name": "American Coffee Tall",
+                    "Price": "KD 1.000"
+                },
+                {
+                    "Name": "Americano Grande",
+                    "Price": "KD 1.350"
+                },
+                {
+                    "Name": "Americano Supremo",
+                    "Price": "KD 1.550"
+                },
+                {
+                    "Name": "Americano Tall",
+                    "Price": "KD 1.150"
+                },
+                {
+                    "Name": "Cafe Latte Grande",
+                    "Price": "KD 1.550"
+                },
+                {
+                    "Name": "Cafe Latte Supremo",
+                    "Price": "KD 1.800"
+                },
+                {
+                    "Name": "Cafe Latte Tall",
+                    "Price": "KD 1.300"
+                },
+                {
+                    "Name": "Cafe Mocha Grande",
+                    "Price": "KD 1.850"
+                },
+                {
+                    "Name": "Cafe Mocha Supremo",
+                    "Price": "KD 2.100"
+                },
+                {
+                    "Name": "Cafe Mocha Tall",
+                    "Price": "KD 1.600"
+                },
+                {
+                    "Name": "Cappuccino Grande",
+                    "Price": "KD 1.550"
+                },
+                {
+                    "Name": "Cappuccino Supremo",
+                    "Price": "KD 1.800"
+                },
+                {
+                    "Name": "Cappuccino Tall",
+                    "Price": "KD 1.300"
+                },
+                {
+                    "Name": "Espresso Double",
+                    "Price": "KD 1.250"
+                },
+                {
+                    "Name": "Espresso Single",
+                    "Price": "KD 1.100"
+                },
+                {
+                    "Name": "French Vanilla Latte Hot Grande",
+                    "Price": "KD 2.000"
+                },
+                {
+                    "Name": "French Vanilla Latte Hot Supreme",
+                    "Price": "KD 2.250"
+                },
+                {
+                    "Name": "French Vanilla Latte Hot Tall",
+                    "Price": "KD 1.750"
+                },
+                {
+                    "Name": "Hot Caramel Macchiato Grande",
+                    "Price": "KD 1.900"
+                },
+                {
+                    "Name": "Hot Caramel Macchiato Tall",
+                    "Price": "KD 1.650"
+                },
+                {
+                    "Name": "Hot Chocolate Grande",
+                    "Price": "KD 1.850"
+                },
+                {
+                    "Name": "Hot Chocolate Supremo",
+                    "Price": "KD 2.100"
+                },
+                {
+                    "Name": "Hot Chocolate Tall",
+                    "Price": "KD 1.600"
+                },
+                {
+                    "Name": "Hot Milk",
+                    "Price": "KD 1.000"
+                },
+                {
+                    "Name": "Macchiato Double",
+                    "Price": "KD 1.350"
+                },
+                {
+                    "Name": "Macchiato Single",
+                    "Price": "KD 1.200"
+                },
+                {
+                    "Name": "Spanish Latte Hot Grande",
+                    "Price": "KD 1.900"
+                },
+                {
+                    "Name": "Spanish Latte Hot Supreme",
+                    "Price": "KD 2.200"
+                },
+                {
+                    "Name": "Spanish Latte Hot Tall",
+                    "Price": "KD 1.650"
+                },
+                {
+                    "Name": "White Mocha Grande",
+                    "Price": "KD 1.850"
+                },
+                {
+                    "Name": "White Mocha Supremo",
+                    "Price": "KD 2.100"
+                }
+            ]
+        },
+        {
+            "Category": " CINN- EXTRAS ",
+            "dishes": [
+                {
+                    "Name": "Extra Caramel Frosting",
+                    "Price": "KD 0.250"
+                },
+                {
+                    "Name": "Extra Chocolate",
+                    "Price": "KD 0.250"
+                },
+                {
+                    "Name": "Extra Frosting",
+                    "Price": "KD 0.250"
+                }
+            ]
+        },
+        {
+            "Category": " LTO - SBC ",
+            "dishes": [
+                {
+                    "Name": "Iced Makara Cinnamon Latte Large",
+                    "Price": "KD 2.000"
+                },
+                {
+                    "Name": "Iced Makara Cinnamon Latte Small",
+                    "Price": "KD 1.800"
+                },
+                {
+                    "Name": "Makara Cinnamon Latte Hot Grande",
+                    "Price": "KD 1.950"
+                },
+                {
+                    "Name": "Makara Cinnamon Latte Hot Tall",
+                    "Price": "KD 1.750"
+                },
+                {
+                    "Name": "Iced Salted Carmel Latte Large",
+                    "Price": "KD 2.000"
+                },
+                {
+                    "Name": "Salted Carmel Latte Hot Grande",
+                    "Price": "KD 1.900"
+                },
+                {
+                    "Name": "Salted Carmel Latte Hot Tall",
+                    "Price": "KD 1.650"
+                }
+            ]
+        },
+        {
+            "Category": " CINN-BEVERAGE ",
+            "dishes": [
+                {
+                    "Name": "Chocolate Mocha Chillatta Large",
+                    "Price": "KD 1.650"
+                },
+                {
+                    "Name": "Chocolate Mocha Chillatta Small",
+                    "Price": "KD 1.400"
+                },
+                {
+                    "Name": "Cinnabon Roll Chillatta Large",
+                    "Price": "KD 1.850"
+                },
+                {
+                    "Name": "Cinnabon Roll Chillatta Small",
+                    "Price": "KD 1.550"
+                },
+                {
+                    "Name": "Cinnafizz Passion Fruit Large",
+                    "Price": "KD 1.700"
+                },
+                {
+                    "Name": "Cinnafizzes Passion Fruit Small",
+                    "Price": "KD 1.400"
+                },
+                {
+                    "Name": "Cinnafizzes Strawberry Balsamic Large",
+                    "Price": "KD 1.700"
+                },
+                {
+                    "Name": "Cinnafizzes Strawberry Balsamic Small",
+                    "Price": "KD 1.400"
+                },
+                {
+                    "Name": "Cookie and Cream Chillatta Large",
+                    "Price": "KD 1.750"
+                },
+                {
+                    "Name": "Cookie and Cream Chillatta Small",
+                    "Price": "KD 1.500"
+                },
+                {
+                    "Name": "Mango Chillatta Large",
+                    "Price": "KD 1.650"
+                },
+                {
+                    "Name": "Mango Chillatta Small",
+                    "Price": "KD 1.400"
+                },
+                {
+                    "Name": "Mochalata Chill Large",
+                    "Price": "KD 1.850"
+                },
+                {
+                    "Name": "Mochalata Chill Small",
+                    "Price": "KD 1.600"
+                },
+                {
+                    "Name": "Strawberry Chillattas Large",
+                    "Price": "KD 1.650"
+                }
+            ]
+        },
+        {
+            "Category": " SBC- EXTRAS ",
+            "dishes": [
+                {
+                    "Name": "Extra Caramel Syrup",
+                    "Price": "KD 0.250"
+                },
+                {
+                    "Name": "Extra Chocolate Syrup",
+                    "Price": "KD 0.250"
+                },
+                {
+                    "Name": "Extra Hazelnut Syrup",
+                    "Price": "KD 0.250"
+                },
+                {
+                    "Name": "Extra Shot",
+                    "Price": "KD 0.250"
+                },
+                {
+                    "Name": "Extra Tea Bag",
+                    "Price": "KD 0.150"
+                },
+                {
+                    "Name": "Extra Vanilla Syrup",
+                    "Price": "KD 0.250"
+                }
+            ]
+        },
+        {
+            "Category": " SBC-COLD DRINKS ",
+            "dishes": [
+                {
+                    "Name": "Acqua Panna Water",
+                    "Price": "KD 0.500"
+                },
+                {
+                    "Name": "Fresh Orange Juice Large",
+                    "Price": "KD 1.000"
+                },
+                {
+                    "Name": "Fresh Orange Juice Small",
+                    "Price": "KD 0.750"
+                }
+            ]
+        },
+        {
+            "Category": " SBC-COLD COFFEE ",
+            "dishes": [
+                {
+                    "Name": "Caramel Latte Chillatta Large",
+                    "Price": "KD 1.750"
+                },
+                {
+                    "Name": "Caramel Latte Chillatta Small",
+                    "Price": "KD 1.500"
+                },
+                {
+                    "Name": "Cinnamon Roll Cold Brew Large",
+                    "Price": "KD 1.750"
+                },
+                {
+                    "Name": "Cinnamon Roll Cold Brew Small",
+                    "Price": "KD 1.500"
+                },
+                {
+                    "Name": "Classic Cold Brew Large",
+                    "Price": "KD 1.750"
+                },
+                {
+                    "Name": "Classic Cold Brew Small",
+                    "Price": "KD 1.500"
+                },
+                {
+                    "Name": "Cold Brew with Cream Large",
+                    "Price": "KD 1.750"
+                },
+                {
+                    "Name": "Cold Brew with Cream Small",
+                    "Price": "KD 1.500"
+                },
+                {
+                    "Name": "Cold Milk",
+                    "Price": "KD 1.000"
+                },
+                {
+                    "Name": "French Vanilla Latte Cold Large",
+                    "Price": "KD 1.750"
+                },
+                {
+                    "Name": "French Vanilla Latte Cold Small",
+                    "Price": "KD 1.500"
+                },
+                {
+                    "Name": "Frosty Caramel Cappuccino Cold Large",
+                    "Price": "KD 1.750"
+                },
+                {
+                    "Name": "Frosty Caramel Cappuccino Cold Small",
+                    "Price": "KD 1.500"
+                },
+                {
+                    "Name": "Iced Caramel Macchiato Large",
+                    "Price": "KD 1.800"
+                },
+                {
+                    "Name": "Iced Caramel Macchiato Small",
+                    "Price": "KD 1.500"
+                },
+                {
+                    "Name": "Iced Coffee Large",
+                    "Price": "KD 1.500"
+                },
+                {
+                    "Name": "Iced Coffee Small",
+                    "Price": "KD 1.250"
+                },
+                {
+                    "Name": "Iced Latte Large",
+                    "Price": "KD 1.550"
+                },
+                {
+                    "Name": "Iced Latte Small",
+                    "Price": "KD 1.300"
+                },
+                {
+                    "Name": "Spanish Latte Cold Large",
+                    "Price": "KD 1.750"
+                },
+                {
+                    "Name": "Spanish Latte Cold Small",
+                    "Price": "KD 1.500"
+                },
+                {
+                    "Name": "Vanilla And Cream Cold Brew Large",
+                    "Price": "KD 1.750"
+                }
+            ]
+        },
+        {
+            "Category": " SBC-BREAKFAST ",
+            "dishes": [
+                {
+                    "Name": "Cheese Croissant",
+                    "Price": "KD 1.200"
+                },
+                {
+                    "Name": "Chicken Pesto Sandwich",
+                    "Price": "KD 1.900"
+                },
+                {
+                    "Name": "Halloumi Zaatar Sandwich",
+                    "Price": "KD 1.500"
+                },
+                {
+                    "Name": "Turkey & Egg Sandwich",
+                    "Price": "KD 1.250"
+                },
+                {
+                    "Name": "Plain Croissant",
+                    "Price": "KD 0.900"
+                }
+            ]
+        },
+        {
+            "Category": " MOJITOS ",
+            "dishes": [
+                {
+                    "Name": "Blue Mojito",
+                    "Price": "KD 1.500"
+                },
+                {
+                    "Name": "Bubble Gum Mojito",
+                    "Price": "KD 1.500"
+                },
+                {
+                    "Name": "Margarita Mojito",
+                    "Price": "KD 1.500"
+                },
+                {
+                    "Name": "Mix Berry Mojito",
+                    "Price": "KD 1.500"
+                }
+            ]
+        },
+        {
+            "Category": " LTO - CINNABON ",
+            "dishes": [
+                {
+                    "Name": "Caramel Pecanbon 4 Pcs Hot",
+                    "Price": "KD 5.600"
+                },
+                {
+                    "Name": "Choco Pecan Minibon",
+                    "Price": "KD 1.350"
+                }
+            ]
+        },
+        {
+            "Category": " HOT TEA'S ",
+            "dishes": [
+                {
+                    "Name": "Black Tea Hot",
+                    "Price": "KD 1.000"
+                },
+                {
+                    "Name": "Green Tea",
+                    "Price": "KD 1.000"
+                },
+                {
+                    "Name": "Green Tea with Mint",
+                    "Price": "KD 1.000"
+                }
+            ]
+        },
+        {
+            "Category": " FRESHLY BAKED ",
+            "dishes": [
+                {
+                    "Name": "Bonbites Chips",
+                    "Price": "KD 1.000"
+                },
+                {
+                    "Name": "Caramel Pecan Bon",
+                    "Price": "KD 1.500"
+                },
+                {
+                    "Name": "Choco Roll On To Go",
+                    "Price": "KD 1.250"
+                },
+                {
+                    "Name": "Chocobon",
+                    "Price": "KD 1.400"
+                },
+                {
+                    "Name": "Chocobon Bites",
+                    "Price": "KD 1.250"
+                },
+                {
+                    "Name": "Cinnabon Classic",
+                    "Price": "KD 1.250"
+                },
+                {
+                    "Name": "Classic Bites",
+                    "Price": "KD 1.250"
+                },
+                {
+                    "Name": "Classic Roll On To Go",
+                    "Price": "KD 1.250"
+                },
+                {
+                    "Name": "Cookie Bon Bites 1 Pc",
+                    "Price": "KD 0.750"
+                },
+                {
+                    "Name": "Cookie Bon Bites 3 Pcs",
+                    "Price": "KD 2.000"
+                },
+                {
+                    "Name": "Cookie Bon Bites  6 Pcs",
+                    "Price": "KD 4.000"
+                },
+                {
+                    "Name": "Mini Bon Chips",
+                    "Price": "KD 1.250"
+                },
+                {
+                    "Name": "Mini Caramel Pecan Bon",
+                    "Price": "KD 1.250"
+                },
+                {
+                    "Name": "Mini Choco Bon",
+                    "Price": "KD 1.150"
+                },
+                {
+                    "Name": "Minibon",
+                    "Price": "KD 1.000"
+                }
+            ]
+        }
+    ]
+}
+{
+    "Name": "Lavena",
+    "Category": " Desserts, Pastries, Cakes ",
+    "Reviews": "Amazing",
+    "Delivery": "Within 40 mins",
+    "Services": "N/A",
+    "Food": [
+        {
+            "Category": " Most Selling "
+        },
+        {
+            "Category": " New Sweets ",
+            "dishes": [
+                {
+                    "Name": "Chocolate Corn Flakes 40 Pcs",
+                    "Price": "KD 5.500"
+                }
+            ]
+        },
+        {
+            "Category": " Frozen Sambosa ",
+            "dishes": [
+                {
+                    "Name": "Frozen Chicken Sambosa 50Pieces",
+                    "Price": "KD 6.000"
+                },
+                {
+                    "Name": "Frozen Sambosa White Cheese With Mint 50Pieces",
+                    "Price": "KD 6.000"
+                },
+                {
+                    "Name": "Frozen Sambosa Potato Achar 50 Pieces",
+                    "Price": "KD 6.000"
+                },
+                {
+                    "Name": "Frozen Sambosa Kraft Cheese 50 Pieces",
+                    "Price": "KD 6.000"
+                },
+                {
+                    "Name": "Frozen Sambosa Potato Kraft Cheese 50 Pieces",
+                    "Price": "KD 6.000"
+                },
+                {
+                    "Name": "Frozen Samobasa White Cheese 50 Pieces",
+                    "Price": "KD 6.000"
+                },
+                {
+                    "Name": "Frozen Vegetable Samosa 50 Pieces",
+                    "Price": "KD 6.000"
+                },
+                {
+                    "Name": "Frozen Sambosa Meat 50Pieces",
+                    "Price": "KD 6.000"
+                }
+            ]
+        },
+        {
+            "Category": " New Pastry ",
+            "dishes": [
+                {
+                    "Name": "Corn Flakes Sweet 40 Pieces ",
+                    "Price": "KD 5.500"
+                },
+                {
+                    "Name": "Rice Crispy Sweet 40 Pieces",
+                    "Price": "KD 5.500"
+                }
+            ]
+        },
+        {
+            "Category": " Pastry ",
+            "dishes": [
+                {
+                    "Name": "   Frozen Araba Kibbeh 50 Pieces ",
+                    "Price": "KD 7.500"
+                },
+                {
+                    "Name": "Frozen Kubba Beetroot Cheese 50 Pieces",
+                    "Price": "KD 7.500"
+                },
+                {
+                    "Name": "Frozen Dill Kibbeh With Cheese 50 Pieces",
+                    "Price": "KD 7.500"
+                },
+                {
+                    "Name": "Frozen dill meat kibbeh 50 pieces",
+                    "Price": "KD 7.500"
+                },
+                {
+                    "Name": "Frozen Kibbeh Jeresh 50 Pieces",
+                    "Price": "KD 7.500"
+                },
+                {
+                    "Name": "Frozen Kubba Potato Meat 50 Pieces",
+                    "Price": "KD 7.500"
+                },
+                {
+                    "Name": "Frozen Kubba Burgul 50 Pieces",
+                    "Price": "KD 7.500"
+                },
+                {
+                    "Name": "Frozen Kubba Potato Cheese 50 Pieces",
+                    "Price": "KD 7.500"
+                },
+                {
+                    "Name": "Frozen Beetroot Kubba with meat 50 Pieces",
+                    "Price": "KD 7.500"
+                },
+                {
+                    "Name": "Frozen Carrot Meat Kubba 50 Pieces",
+                    "Price": "KD 7.500"
+                },
+                {
+                    "Name": "Frozen Kubba Potato Achar 50 Pieces",
+                    "Price": "KD 7.500"
+                },
+                {
+                    "Name": "Frozen Chicken Kubba 50 Pieces",
+                    "Price": "KD 7.500"
+                },
+                {
+                    "Name": "Frozen Kubba Indian Sinkara 50Pieces",
+                    "Price": "KD 7.500"
+                },
+                {
+                    "Name": "Frozen Kubba Rice Potato With Meat 50 Pieces",
+                    "Price": "KD 7.500"
+                },
+                {
+                    "Name": "Frozen Chicken Spring Roll 50Pieces",
+                    "Price": "KD 6.500"
+                },
+                {
+                    "Name": "Frozen Kraft Cheese Spring Roll 50 Pieces",
+                    "Price": "KD 6.500"
+                },
+                {
+                    "Name": "Frozen Vegetable Spring Roll 50 Pieces",
+                    "Price": "KD 6.500"
+                },
+                {
+                    "Name": "Frozen Potato Kraft Spring Roll 50 Pieces",
+                    "Price": "KD 6.500"
+                },
+                {
+                    "Name": "Fried kibbeh mix 50 pieces of chicken Elmotaheda",
+                    "Price": "KD 11.000"
+                },
+                {
+                    "Name": "Fry Kubba And Chicken Musakhan Crispy United",
+                    "Price": "KD 12.000"
+                },
+                {
+                    "Name": "Chicken Musakhan Crispy And Vine Leaves United Chicken",
+                    "Price": "KD 11.500"
+                },
+                {
+                    "Name": "Vine Leaves sweet and sour 70 Pieces ",
+                    "Price": "KD 10.500"
+                },
+                {
+                    "Name": "Mix Fried Kebbeh And Sweet And Sour Vine Leaves 60 Pieces",
+                    "Price": "KD 12.000"
+                },
+                {
+                    "Name": "Mixed Mini Pastries For Serving 35 Pieces",
+                    "Price": "KD 9.000"
+                },
+                {
+                    "Name": "Frozen Mixed Kubba 50 pieces",
+                    "Price": "KD 7.500"
+                }
+            ]
+        },
+        {
+            "Category": " Cake ",
+            "dishes": [
+                {
+                    "Name": "Lavena Cake",
+                    "Price": "KD 9.000"
+                },
+                {
+                    "Name": "Brownie Cake",
+                    "Price": "KD 11.000"
+                },
+                {
+                    "Name": "White Fruit Cake",
+                    "Price": "KD 10.000"
+                },
+                {
+                    "Name": "Carrot Cake",
+                    "Price": "KD 12.000"
+                },
+                {
+                    "Name": "Saffron Milk Cake",
+                    "Price": "KD 14.000"
+                }
+            ]
+        },
+        {
+            "Category": " Tart ",
+            "dishes": [
+                {
+                    "Name": "Mini Tart 35 Pieces ",
+                    "Price": "KD 11.000"
+                }
+            ]
+        },
+        {
+            "Category": " Desert Glass ",
+            "dishes": [
+                {
+                    "Name": "Mango Mille-feuille 24 Cups",
+                    "Price": "KD 14.000"
+                },
+                {
+                    "Name": "Mix Sweet 24 Cups",
+                    "Price": "KD 14.000"
+                }
+            ]
+        },
+        {
+            "Category": " Bassbossa ",
+            "dishes": [
+                {
+                    "Name": "Mini Bassbossa",
+                    "Price": "KD 10.000"
+                }
+            ]
+        },
+        {
+            "Category": " Cheese Cake ",
+            "dishes": [
+                {
+                    "Name": "Mini Cheese Cake Mix 35 Pcs",
+                    "Price": "KD 10.500"
+                }
+            ]
+        }
+    ]
+}

@@ -54,6 +54,6 @@ def scrape_laptops():
 
 if __name__ == "__main__":
     laptops = scrape_laptops()
-    db_handler.store_laptops(laptops)
+    # db_handler.store_laptops(laptops)
     for laptop in laptops:
         print(laptop)
