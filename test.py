@@ -8,4 +8,4 @@ with sync_playwright() as p:
     text = page.locator("div[class='banner-content flex flex-column align-items-center text-center']").text_content()
     print(text)
 
-    browser.close()
+    browser.close() 
